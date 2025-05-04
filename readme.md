@@ -1,7 +1,6 @@
 ## Pre-Instllation (for other systems)
 
 - homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
-- bun: `curl -fsSL https://bun.sh/install | bash`
 
 ## Brew
 
