@@ -1,6 +1,7 @@
 ## Pre-Instllation (for other systems)
 
-> homebrew
+> homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
+> bun: `curl -fsSL https://bun.sh/install | bash`
 
 ## Brew
 
@@ -18,4 +19,5 @@
 
 ## Post-Installation
 
+> emmet-lsp: `npm i -g @olrtg/emmet-language-server`
 > github-copilot connection by `:Copilot` along with authentication `:Copilot auth`
