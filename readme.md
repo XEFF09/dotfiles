@@ -14,5 +14,6 @@
 
 ## Post-Installation
 
+- oh-my-zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - emmet-lsp: `npm i -g @olrtg/emmet-language-server`
 - github-copilot connection by `:Copilot` along with authentication `:Copilot auth`
