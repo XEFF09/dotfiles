@@ -1,6 +1,6 @@
 brew-all:
 	@ brew install neovim
-	@ brew install --cask ghostty\n
+	@ brew install --cask ghostty
 	@ brew install git
 	@ brew install git-flow
 	@ brew install node

@@ -1,18 +1,14 @@
-## Pre-Instllation (for other systems)
+## Requirements (for other systems)
 
 - homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
-
-## Brew
-
-```
- $ make brew-all
-```
+- git: `brew install git`
 
 ## Installation
 
 ```
  $ git clone https://github.com/XEFF09/dotfiles.git
  $ cd dotfiles
+ $ make brew-all
  $ stow . //or// stow --abort .
 ```
 
