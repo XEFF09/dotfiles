@@ -109,3 +109,4 @@ PATH=~/.console-ninja/.bin:$PATH
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 eval "$(zoxide init zsh)"
+export GHOSTTY_CONFIG_FILE="$HOME/.config/ghostty/config"

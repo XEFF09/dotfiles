@@ -1,0 +1,34 @@
+# decoration
+background-opacity = 0.85
+
+# Solarized Dark Color Scheme
+# background = 002b36
+# foreground = 839496
+font-size = 18
+# theme = "Twilight"
+# theme = "DimmedMonokai"
+theme = "Firewatch"
+# theme = "gruber-darker"
+
+# Cursor
+cursor-color = 93a1a1
+cursor-text = 002b36
+
+# window settings
+window-decoration = true
+window-theme = dark
+window-height=510
+window-width=1640
+
+# keybinds super=cmd, option=alt
+keybind = ctrl+r=reload_config
+
+keybind = shift+super+k=new_split:up
+keybind = shift+super+j=new_split:down
+keybind = shift+super+h=new_split:left
+keybind = shift+super+l=new_split:right
+
+keybind = shift+ctrl+k=goto_split:up
+keybind = shift+ctrl+j=goto_split:down
+keybind = shift+ctrl+h=goto_split:left
+keybind = shift+ctrl+l=goto_split:right
