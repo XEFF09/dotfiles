@@ -110,3 +110,12 @@ source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 eval "$(zoxide init zsh)"
 export GHOSTTY_CONFIG_FILE="$HOME/.config/ghostty/config"
+export YAZI_CONFIG_HOME="$HOME/.config/yazi"
+# Cargo
+export CARGO_PATH="$HOME/.cargo/bin:$PATH"
+export CARGO_CONFIG_FILE="$HOME/.config/rmpc/config.ron"
+
+alias ls="eza --long --color=always --icons=always --no-user"
+alias nzo="$HOME/.config/scripts/zoxide_openfiles_nvim.sh"
+alias cd="z"
+alias finder="yazi"

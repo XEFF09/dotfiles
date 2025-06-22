@@ -7,17 +7,16 @@ brew-all:
 	@ brew install go
 	@ brew install lazygit
 	@ brew install kubernetes-cli
-	@ brew install jsonnet
 	@ brew install fzf
 	@ brew install telnet
-	@ brew install --cask raycast
-	@ brew install kew
 	@ brew install tmux
 	@ brew install oven-sh/bun/bun
-	@ brew install cloudflared
-	@ brew install ngrok
 	@ brew install zsh-autocomplete
 	@ brew install zsh-autosuggestions
 	@ brew install zoxide
 	@ brew install tree
 	@ brew install stow
+	@ brew install bat
+	@ brew install fd
+	@ brew install eza
+	@ brew install yazi
