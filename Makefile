@@ -20,3 +20,5 @@ brew-all:
 	@ brew install fd
 	@ brew install eza
 	@ brew install yazi
+	@ brew install most
+	@ brew install delta
