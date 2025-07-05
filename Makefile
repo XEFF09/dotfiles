@@ -22,3 +22,4 @@ brew-all:
 	@ brew install yazi
 	@ brew install most
 	@ brew install delta
+	@ brew install jandedobbeleer/oh-my-posh/oh-my-posh
