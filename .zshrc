@@ -2,7 +2,7 @@ plugins=(git)
 
 # oh my posh
 if [ "$TERM_PROGRAM" != "Apple_Terminal" ]; then
-  eval "$(oh-my-posh init zsh --config $HOME/.config/oh-my-posh/themes/neg.json)"
+  eval "$(oh-my-posh init zsh --config $HOME/.config/oh-my-posh/themes/zash.json)"
 fi
 
 set -o vi

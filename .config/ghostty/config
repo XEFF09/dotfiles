@@ -23,20 +23,10 @@ mouse-hide-while-typing = true
 window-decoration = true
 window-theme = dark
 window-height = 30
-window-width = 90
+window-width = 120
 
 # Keybinds super=cmd, option=alt
 keybind = ctrl+r=reload_config
-
-keybind = shift+super+k=new_split:up
-keybind = shift+super+j=new_split:down
-keybind = shift+super+h=new_split:left
-keybind = shift+super+l=new_split:right
-
-keybind = shift+ctrl+k=goto_split:up
-keybind = shift+ctrl+j=goto_split:down
-keybind = shift+ctrl+h=goto_split:left
-keybind = shift+ctrl+l=goto_split:right
 
 # Update
 auto-update = check
