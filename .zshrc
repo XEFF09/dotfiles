@@ -38,9 +38,13 @@ source "$HOME/.config/scripts/fzf-git.sh/fzf-git.sh"
 # most 
 export PAGER="most"
 
+# protoc
+export PATH="$PATH:$(go env GOPATH)/bin"
+
 alias ls="eza --long --color=always --icons=always --no-user"
 alias l="ls -liah"
 alias nzo="$HOME/.config/scripts/zoxide_openfiles_nvim.sh"
 alias cd="z"
 alias finder="yazi"
 alias cat="bat"
+alias kube="kubectl"

@@ -22,8 +22,6 @@ mouse-hide-while-typing = true
 # Window settings
 window-decoration = true
 window-theme = dark
-window-height = 30
-window-width = 120
 
 # Keybinds super=cmd, option=alt
 keybind = ctrl+r=reload_config

@@ -20,3 +20,7 @@
 
 [diff]
   colorMoved = default
+[submodule]
+	recurse = true
+[push]
+	recurseSubmodules = on-demand
