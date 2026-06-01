@@ -41,6 +41,15 @@ export PAGER="most"
 # protoc
 export PATH="$PATH:$(go env GOPATH)/bin"
 
+# bun
+export PATH="/Users/thatpong/.bun/bin:$PATH"
+
+# uv tools
+export PATH="$HOME/.local/share/uv/tools/crewai/bin:$PATH"
+
+# dotnet
+export PATH="/opt/homebrew/share/dotnet:$PATH"
+
 alias ls="eza --long --color=always --icons=always --no-user"
 alias l="ls -liah"
 alias nzo="$HOME/.config/scripts/zoxide_openfiles_nvim.sh"

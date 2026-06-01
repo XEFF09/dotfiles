@@ -1,6 +1,6 @@
 # Decorations
-background-opacity = 0.75
-background-blur-radius = 20
+background-opacity = 0.90
+background-blur-radius = 10
 
 # Solarized Dark Color Scheme
 # background = 002b36

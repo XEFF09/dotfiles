@@ -2,23 +2,24 @@
 return {
   {
     "catppuccin/nvim",
-    lazy = false,
     name = "catppuccin",
     priority = 1000,
-    config = function()
-      require("catppuccin").setup({
-        transparent_background = true,
-        color_overrides = {
-          mocha = {},
-        },
-        integrations = {
-          cmp = true,
-          gitsigns = true,
-          nvimtree = true,
-          treesitter = true,
-          telescope = true,
-        },
-      })
+    lazy = false,
+    opts = {
+      transparent_background = true,
+      integrations = {
+        snacks = true,
+        lualine = true,
+        native_lsp = true,
+        cmp = true,
+        gitsigns = true,
+        nvimtree = true,
+        telescope = true,
+        treesitter = true,
+      },
+    },
+    config = function(_, opts)
+      require("catppuccin").setup(opts)
       vim.cmd.colorscheme("catppuccin-mocha")
     end,
   },
