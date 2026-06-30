@@ -1,0 +1,18 @@
+{
+  "commandHistory": [
+    "/init",
+    "/skills list",
+    "/plugin list",
+    "/instructions",
+    "/plugin marketplace list",
+    "/plugin install github:JuliusBrussee/caveman",
+    "/plugin marketplace add github/juliusbrussee/caveman",
+    "/plugin install caveman",
+    "/skills",
+    "/cwd",
+    "/login",
+    "/model",
+    "hi",
+    "/statusline"
+  ]
+}

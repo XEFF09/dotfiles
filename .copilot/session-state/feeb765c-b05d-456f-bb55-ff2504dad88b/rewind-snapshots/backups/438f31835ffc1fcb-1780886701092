@@ -1,0 +1,40 @@
+2026-06-08T01:48:57.894Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T01:48:57.910Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=XEFF09/dotfiles
+2026-06-08T01:48:57.924Z [INFO] Workspace initialized: 9a493a94-a307-489e-8bc7-d16f4afcd992 (checkpoints: 0)
+2026-06-08T01:48:58.243Z [INFO] Starting Copilot CLI: 1.0.59
+2026-06-08T01:48:58.243Z [INFO] Node.js version: v24.16.0
+2026-06-08T01:48:58.244Z [INFO] Registering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992
+2026-06-08T01:48:58.246Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [FTe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T01:48:58.267Z [INFO] ICU native addon loaded
+2026-06-08T01:48:58.282Z [INFO] Login status unknown
+2026-06-08T01:48:58.292Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T01:48:58.300Z [INFO] Init suggestion check completed
+2026-06-08T01:48:58.353Z [INFO] Unregistering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992
+2026-06-08T01:48:58.355Z [INFO] Registering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992
+2026-06-08T01:48:58.377Z [INFO] Remote session access disabled
+2026-06-08T01:48:58.385Z [INFO] Logged out
+2026-06-08T01:48:58.964Z [INFO] Remote session access disabled
+2026-06-08T01:49:02.952Z [INFO] Successfully downloaded package, restart to update to version 1.0.60
+2026-06-08T01:49:02.953Z [INFO] Downloading updated darwin-arm64 binary...
+2026-06-08T01:49:07.482Z [INFO] Successfully updated binary
+2026-06-08T01:49:36.267Z [INFO] Unregistering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992
+2026-06-08T01:49:36.268Z [INFO] Registering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992
+2026-06-08T01:50:42.292Z [INFO] Remote session access enabled
+2026-06-08T01:50:42.343Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T01:50:46.093Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T01:50:47.063Z [INFO] Memory enablement check: enabled
+2026-06-08T01:51:43.867Z [INFO]  
+2026-06-08T01:51:43.868Z [INFO] --- Start of group: configured settings: ---
+2026-06-08T01:51:43.868Z [INFO] --- End of group ---
+2026-06-08T01:51:43.931Z [INFO]  
+2026-06-08T01:51:43.931Z [INFO] --- Start of group: configured settings: ---
+2026-06-08T01:51:43.931Z [INFO] --- End of group ---
+2026-06-08T01:51:45.359Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-06-08T01:51:45.360Z [INFO] --- End of group ---
+2026-06-08T01:51:45.454Z [INFO] CompactionProcessor: Utilization 9.9% (19884/200000 tokens) below threshold 80%
+2026-06-08T01:51:45.455Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T01:51:48.865Z [INFO] --- End of group ---
+2026-06-08T01:51:49.853Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id EB8C:349677:2550F90:2AEDA7B:6A262035 in 930ms
+2026-06-08T01:52:32.441Z [INFO] Remote session access enabled
+2026-06-08T01:52:32.492Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T01:58:22.771Z [INFO] Unregistering foreground session: 9a493a94-a307-489e-8bc7-d16f4afcd992

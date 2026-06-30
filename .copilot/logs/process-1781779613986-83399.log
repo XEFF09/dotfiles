@@ -1,0 +1,97 @@
+2026-06-18T10:46:53.988Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-18T10:46:54.057Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=Fusion-Solution/Fusion.ChatFramework
+2026-06-18T10:46:54.073Z [INFO] Workspace initialized: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b (checkpoints: 0)
+2026-06-18T10:46:55.633Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-18T10:46:55.633Z [INFO] Node.js version: v24.16.0
+2026-06-18T10:46:55.639Z [INFO] Registering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:46:55.642Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-18T10:46:55.646Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-18T10:46:55.677Z [INFO] ICU native addon loaded
+2026-06-18T10:46:55.692Z [INFO] Login status unknown
+2026-06-18T10:46:55.710Z [INFO] Remote session access enabled
+2026-06-18T10:46:55.714Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-18T10:46:55.721Z [INFO] Welcome Thatpong_fusol!
+2026-06-18T10:46:55.758Z [INFO] Init suggestion check completed
+2026-06-18T10:46:55.797Z [INFO] Unregistering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:46:55.797Z [INFO] Registering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:46:55.814Z [INFO] Unregistering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:46:55.815Z [INFO] Registering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:46:56.435Z [INFO] [Octokit] GET /repos/Fusion-Solution/Fusion.ChatFramework - 200 with id F476:187B03:14DCB5A:1666017:6A33CC9F in 688ms
+2026-06-18T10:46:56.437Z [INFO] [Octokit] GET /repos/Fusion-Solution/Fusion.ChatFramework/pulls?head=Fusion-Solution%3Athatpong-cus-lh-develop&state=open&per_page=1 - 200 with id F477:EE7AE:14BB8D3:1644599:6A33CC9F in 650ms
+2026-06-18T10:46:56.554Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: undefined
+2026-06-18T10:46:56.554Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-18T10:46:56.555Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-18T10:46:56.555Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-18T10:46:57.425Z [ERROR] [mcp server code-review-graph stderr] [06/18/26 17:46:57] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-18T10:46:57.431Z [ERROR] MCP client for code-review-graph connected, took 876ms
+2026-06-18T10:46:57.431Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-18T10:46:57.431Z [ERROR] Started MCP client for code-review-graph
+2026-06-18T10:46:57.432Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.business.githubcopilot.com/mcp/readonly
+2026-06-18T10:46:57.433Z [ERROR] Creating MCP client for github-mcp-server...
+2026-06-18T10:46:57.433Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-06-18T10:46:58.219Z [INFO] RemoteSessionExporter: active with session dd6eca72-6757-4038-a373-c8622b9b7cf8
+2026-06-18T10:46:58.219Z [INFO] Remote session export active (not steerable): https://github.com/Fusion-Solution/Fusion.ChatFramework/tasks/8e3d8095-1d41-4fbf-8b11-4f71be7c8eca
+2026-06-18T10:46:58.253Z [ERROR] MCP client for github-mcp-server connected, took 820ms
+2026-06-18T10:46:58.253Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-06-18T10:46:58.254Z [ERROR] GitHub MCP server configured after authentication
+2026-06-18T10:46:58.277Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-18T10:47:00.358Z [INFO] Memory enablement check: enabled
+2026-06-18T10:47:00.461Z [INFO] Successfully downloaded package, restart to update to version 1.0.63
+2026-06-18T10:47:00.461Z [INFO] Downloading updated darwin-arm64 binary...
+2026-06-18T10:47:04.587Z [INFO] Unregistering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:47:04.588Z [INFO] Registering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:47:06.797Z [INFO] Successfully updated binary
+2026-06-18T10:48:59.557Z [INFO] Unregistering foreground session: bc770e61-a15d-4b96-9fdd-ff7d96a7d90b
+2026-06-18T10:49:00.049Z [ERROR] [mcp server code-review-graph stderr] Traceback (most recent call last):
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/bin/code-review-graph", line 10, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/lib/python3.14/site-packages/code_review_graph/cli.py", line 799, in main
+    serve_main(repo_root=args.repo, auto_watch=auto_watch, tools=args.tools)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/lib/python3.14/site-packages/code_review_graph/main.py", line 1066, in main
+    mcp.run(transport="stdio", show_banner=False)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/lib/python3.14/site-packages/fastmcp/server/mixins/transport.py", line 92, in run
+    anyio.run(
+    ~~~~~~~~~^
+        partial(
+        ^^^^^^^^
+    ...<4 lines>...
+        )
+        ^
+    )
+    ^
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/lib/python3.14/site-packages/anyio/_core/_eventloop.py", line 77, in run
+    return async_backend.run(func, args, {}, backend_options)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thatpong/.local/share/uv/tools/code-review-graph/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2358, in run
+    return runner.run(wrapper())
+           ~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/asyncio/runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/asyncio/base_events.py", line 706, in run_until_complete
+    self.run_forever()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/asyncio/base_events.py", line 677, in run_forever
+    self._run_once()
+    ~~~~~~~~~~~~~~^^
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/asyncio/base_events.py", line 2019, in _run_once
+    event_list = self._selector.select(timeout)
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/selectors.py", line 548, in select
+    kev_list = self._selector.control(None, max_ev, timeout)
+  File "/Users/thatpong/.local/share/uv/python/cpython-3.14.4-macos-aarch64-none/lib/python3.14/asyncio/runners.py", line 166, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+2026-06-18T10:49:00.057Z [ERROR] MCP transport for code-review-graph closed
+2026-06-18T10:49:00.058Z [ERROR] MCP client for code-review-graph closed
+2026-06-18T10:49:00.444Z [ERROR] MCP transport for github-mcp-server closed
+2026-06-18T10:49:00.444Z [ERROR] MCP client for github-mcp-server closed

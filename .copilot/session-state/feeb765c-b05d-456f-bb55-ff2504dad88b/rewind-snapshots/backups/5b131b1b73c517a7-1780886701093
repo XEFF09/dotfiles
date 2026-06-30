@@ -1,0 +1,651 @@
+2026-06-08T02:40:54.110Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T02:40:54.110Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=undefined
+2026-06-08T02:40:54.120Z [INFO] Workspace initialized: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d (checkpoints: 0)
+2026-06-08T02:40:54.670Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-08T02:40:54.670Z [INFO] Node.js version: v24.16.0
+2026-06-08T02:40:54.673Z [INFO] Registering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:54.675Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T02:40:54.694Z [INFO] ICU native addon loaded
+2026-06-08T02:40:54.708Z [INFO] Login status unknown
+2026-06-08T02:40:54.719Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-08T02:40:54.719Z [INFO] Remote session access enabled
+2026-06-08T02:40:54.722Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T02:40:54.723Z [INFO] No GitHub repository detected — creating repo-less remote session
+2026-06-08T02:40:54.730Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T02:40:54.769Z [INFO] Init suggestion check completed
+2026-06-08T02:40:54.771Z [INFO] Unregistering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:54.771Z [INFO] Registering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:54.776Z [INFO] Unregistering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:54.777Z [INFO] Registering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:55.399Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: undefined
+2026-06-08T02:40:55.399Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:55.401Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:55.401Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:55.570Z [INFO] No update needed, current version is 1.0.60, fetched latest release is v1.0.60
+2026-06-08T02:40:55.800Z [INFO] RemoteSessionExporter: active with session bb4d8bd5-b7ea-4c81-8ac0-6d4e93d3695a
+2026-06-08T02:40:55.800Z [INFO] Remote session export active (not steerable): https://github.com/copilot/tasks/0c930c86-0afe-450a-aff1-e086118caed2
+2026-06-08T02:40:56.011Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:40:56] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:40:56.014Z [ERROR] MCP client for code-review-graph connected, took 613ms
+2026-06-08T02:40:56.014Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:40:56.014Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:40:56.016Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.business.githubcopilot.com/mcp/readonly
+2026-06-08T02:40:56.016Z [ERROR] Creating MCP client for github-mcp-server...
+2026-06-08T02:40:56.016Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-06-08T02:40:56.776Z [INFO] Unregistering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:56.776Z [INFO] Registering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d
+2026-06-08T02:40:56.821Z [ERROR] MCP transport for code-review-graph closed
+2026-06-08T02:40:56.821Z [ERROR] MCP client for code-review-graph closed
+2026-06-08T02:40:56.822Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.822Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.822Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.822Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.845Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.845Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.845Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.845Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.860Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.860Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.860Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.860Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.878Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.878Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.878Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.878Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.895Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.895Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.895Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.895Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.921Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.921Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.921Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.922Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.945Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.945Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.945Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.945Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.967Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.967Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.967Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.967Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:56.994Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:56.994Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:56.995Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:56.995Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.029Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.029Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.029Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.029Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.087Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.087Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.088Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.088Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.117Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.118Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.118Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.118Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.152Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.152Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.153Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.153Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.230Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.230Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.230Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.230Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.297Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.297Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.297Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.297Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.315Z [ERROR] MCP client for github-mcp-server connected, took 1299ms
+2026-06-08T02:40:57.316Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-06-08T02:40:57.316Z [ERROR] GitHub MCP server configured after authentication
+2026-06-08T02:40:57.381Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.381Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.381Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.382Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.403Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.403Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.403Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.403Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.415Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.415Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.415Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.415Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.496Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.496Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.496Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.496Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.589Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.589Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.589Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.590Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.605Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.605Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.605Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.606Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.618Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.618Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.618Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.619Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.743Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.743Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.743Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.743Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.774Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.775Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.776Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.776Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.891Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.924Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.925Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.925Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.953Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.953Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.953Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.953Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:57.987Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:57.987Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:57.987Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:57.987Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.130Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.130Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.131Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.131Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.196Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.197Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.197Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.197Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.211Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.211Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.211Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.212Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.235Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.235Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.235Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.235Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.411Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.411Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.412Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.412Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.423Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.423Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.424Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.424Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.444Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.444Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.444Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.444Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.463Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.463Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.464Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.464Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.663Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.663Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.664Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.664Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.709Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.709Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.709Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.709Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.723Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.723Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.723Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.723Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.747Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.747Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.747Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.747Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.761Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.761Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.761Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.761Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.774Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.774Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.775Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.775Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:58.986Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:58.986Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:58.986Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:58.986Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:59.021Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:40:59] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:40:59.139Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: /Users/thatpong/Documents/workspace/dotnet-trial/demoapi
+2026-06-08T02:40:59.140Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:40:59.143Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:40:59.143Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:40:59.146Z [ERROR] MCP client for code-review-graph connected, took 2301ms
+2026-06-08T02:40:59.146Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:40:59.146Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:40:59.388Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T02:40:59.400Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:40:59] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:40:59.400Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:40:59] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:40:59.400Z [ERROR] MCP client for code-review-graph connected, took 2578ms
+2026-06-08T02:40:59.400Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:40:59.400Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:40:59.401Z [ERROR] MCP client for code-review-graph connected, took 2541ms
+2026-06-08T02:40:59.401Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:40:59.401Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.071Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.081Z [ERROR] MCP client for code-review-graph connected, took 3085ms
+2026-06-08T02:41:00.081Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.081Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.137Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.138Z [ERROR] MCP client for code-review-graph connected, took 3260ms
+2026-06-08T02:41:00.139Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.139Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.185Z [INFO] Memory enablement check: enabled
+2026-06-08T02:41:00.207Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.207Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.394Z [ERROR] MCP client for code-review-graph connected, took 3306ms
+2026-06-08T02:41:00.394Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.394Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.450Z [ERROR] MCP client for code-review-graph connected, took 3500ms
+2026-06-08T02:41:00.450Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.451Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.456Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.456Z [ERROR] MCP client for code-review-graph connected, took 3511ms
+2026-06-08T02:41:00.456Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.456Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.457Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.457Z [ERROR] MCP client for code-review-graph connected, took 3428ms
+2026-06-08T02:41:00.457Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.457Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.458Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.458Z [ERROR] MCP client for code-review-graph connected, took 3228ms
+2026-06-08T02:41:00.458Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.458Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.598Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.598Z [ERROR] MCP client for code-review-graph connected, took 3631ms
+2026-06-08T02:41:00.598Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.598Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.598Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.598Z [ERROR] MCP client for code-review-graph connected, took 3480ms
+2026-06-08T02:41:00.598Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.599Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.599Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.599Z [ERROR] MCP client for code-review-graph connected, took 3446ms
+2026-06-08T02:41:00.600Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.600Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.725Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.726Z [ERROR] MCP client for code-review-graph connected, took 3804ms
+2026-06-08T02:41:00.726Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.726Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.928Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.928Z [ERROR] MCP client for code-review-graph connected, took 3339ms
+2026-06-08T02:41:00.928Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.928Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.929Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.930Z [ERROR] MCP client for code-review-graph connected, took 3515ms
+2026-06-08T02:41:00.930Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.930Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.931Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.931Z [ERROR] MCP client for code-review-graph connected, took 3435ms
+2026-06-08T02:41:00.931Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.931Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:00.932Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:00.932Z [ERROR] MCP client for code-review-graph connected, took 3635ms
+2026-06-08T02:41:00.932Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:00.932Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.023Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.023Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:00] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.024Z [ERROR] MCP client for code-review-graph connected, took 3621ms
+2026-06-08T02:41:01.024Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.024Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.025Z [ERROR] MCP client for code-review-graph connected, took 3420ms
+2026-06-08T02:41:01.025Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.025Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.105Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.105Z [ERROR] MCP client for code-review-graph connected, took 3724ms
+2026-06-08T02:41:01.105Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.105Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.182Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.182Z [ERROR] MCP client for code-review-graph connected, took 3051ms
+2026-06-08T02:41:01.182Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.182Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.362Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.363Z [ERROR] MCP client for code-review-graph connected, took 3587ms
+2026-06-08T02:41:01.363Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.364Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.365Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.366Z [ERROR] MCP client for code-review-graph connected, took 3748ms
+2026-06-08T02:41:01.366Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.366Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.366Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.366Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.367Z [ERROR] MCP client for code-review-graph connected, took 3380ms
+2026-06-08T02:41:01.367Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.367Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.367Z [ERROR] MCP client for code-review-graph connected, took 3624ms
+2026-06-08T02:41:01.367Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.367Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.368Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.368Z [ERROR] MCP client for code-review-graph connected, took 3443ms
+2026-06-08T02:41:01.368Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.368Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.400Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.401Z [ERROR] MCP client for code-review-graph connected, took 3190ms
+2026-06-08T02:41:01.401Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.401Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.442Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.453Z [ERROR] MCP client for code-review-graph connected, took 3499ms
+2026-06-08T02:41:01.453Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.453Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.531Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.548Z [ERROR] MCP client for code-review-graph connected, took 3136ms
+2026-06-08T02:41:01.548Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.548Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.549Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.549Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.549Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.558Z [ERROR] MCP client for code-review-graph connected, took 3323ms
+2026-06-08T02:41:01.558Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.558Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.559Z [ERROR] MCP client for code-review-graph connected, took 2798ms
+2026-06-08T02:41:01.559Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.559Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.561Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.562Z [ERROR] MCP client for code-review-graph connected, took 3098ms
+2026-06-08T02:41:01.562Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.562Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.563Z [ERROR] MCP client for code-review-graph connected, took 3366ms
+2026-06-08T02:41:01.563Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.563Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.588Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.589Z [ERROR] MCP client for code-review-graph connected, took 3165ms
+2026-06-08T02:41:01.589Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.589Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.589Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.589Z [ERROR] MCP client for code-review-graph connected, took 3145ms
+2026-06-08T02:41:01.589Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.589Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.607Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.607Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.608Z [ERROR] MCP client for code-review-graph connected, took 2944ms
+2026-06-08T02:41:01.608Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.608Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.608Z [ERROR] MCP client for code-review-graph connected, took 2833ms
+2026-06-08T02:41:01.608Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.608Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.620Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.620Z [ERROR] MCP client for code-review-graph connected, took 2911ms
+2026-06-08T02:41:01.620Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.620Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.635Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.646Z [ERROR] MCP client for code-review-graph connected, took 2899ms
+2026-06-08T02:41:01.646Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.646Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.646Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.646Z [ERROR] MCP client for code-review-graph connected, took 2923ms
+2026-06-08T02:41:01.646Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.647Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.647Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.647Z [ERROR] MCP client for code-review-graph connected, took 2504ms
+2026-06-08T02:41:01.647Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.647Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:01.656Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:41:01] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:41:01.656Z [ERROR] MCP client for code-review-graph connected, took 2670ms
+2026-06-08T02:41:01.656Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:41:01.656Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:41:48.212Z [INFO] Unregistering foreground session: fc7ed9c7-ce15-4f25-b2ec-61ecd6c2b05d

@@ -1,0 +1,18 @@
+{
+  "footer": {
+    "showModelEffort": false,
+    "showDirectory": true,
+    "showBranch": true,
+    "showContextWindow": false,
+    "showQuota": true,
+    "showAiUsed": true,
+    "showAgent": true,
+    "showCodeChanges": false,
+    "showUsername": false,
+    "showSandbox": true,
+    "showCustom": true
+  },
+  "disabledSkills": [
+    "customize-cloud-agent"
+  ]
+}

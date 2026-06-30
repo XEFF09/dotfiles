@@ -57,3 +57,7 @@ alias cd="z"
 alias finder="yazi"
 alias cat="bat"
 alias kube="kubectl"
+alias tf="terraform"
+export PATH="$HOME/.local/bin:$PATH"
+
+alias ai="~/.config/ai-setup/bootstrap.sh"

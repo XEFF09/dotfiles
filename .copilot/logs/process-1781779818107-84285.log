@@ -1,0 +1,51 @@
+2026-06-18T10:50:18.109Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-18T10:50:18.177Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=Fusion-Solution/Fusion.ChatFramework
+2026-06-18T10:50:18.184Z [INFO] Workspace initialized: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7 (checkpoints: 0)
+2026-06-18T10:50:19.768Z [INFO] No update needed, current version is 1.0.63, fetched latest release is v1.0.63
+2026-06-18T10:50:20.082Z [INFO] Starting Copilot CLI: 1.0.63
+2026-06-18T10:50:20.082Z [INFO] Node.js version: v24.16.0
+2026-06-18T10:50:20.086Z [INFO] Registering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:20.090Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [BX]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-18T10:50:20.272Z [INFO] ICU native addon loaded
+2026-06-18T10:50:20.295Z [INFO] Login status unknown
+2026-06-18T10:50:20.310Z [INFO] Remote session access enabled
+2026-06-18T10:50:20.313Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-18T10:50:20.314Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-18T10:50:20.328Z [INFO] Welcome Thatpong_fusol!
+2026-06-18T10:50:20.452Z [INFO] Init suggestion check completed
+2026-06-18T10:50:20.474Z [INFO] Unregistering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:20.474Z [INFO] Registering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:20.479Z [INFO] Unregistering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:20.479Z [INFO] Registering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:21.002Z [INFO] [Octokit] GET /repos/Fusion-Solution/Fusion.ChatFramework - 200 with id F535:7CF39:12E08B7:146876F:6A33CD6C in 632ms
+2026-06-18T10:50:21.082Z [INFO] [Octokit] GET /repos/Fusion-Solution/Fusion.ChatFramework/pulls?head=Fusion-Solution%3Athatpong-cus-lh-develop&state=open&per_page=1 - 200 with id F538:CED76:1391F95:151CF14:6A33CD6C in 584ms
+2026-06-18T10:50:21.124Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: undefined
+2026-06-18T10:50:21.124Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-18T10:50:21.125Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-18T10:50:21.125Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-18T10:50:21.960Z [ERROR] [mcp server code-review-graph stderr] [06/18/26 17:50:21] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-18T10:50:21.962Z [ERROR] MCP client for code-review-graph connected, took 837ms
+2026-06-18T10:50:21.963Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-18T10:50:21.963Z [ERROR] Started MCP client for code-review-graph
+2026-06-18T10:50:21.964Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.business.githubcopilot.com/mcp/readonly
+2026-06-18T10:50:21.964Z [ERROR] Creating MCP client for github-mcp-server...
+2026-06-18T10:50:21.964Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-06-18T10:50:22.219Z [INFO] RemoteSessionExporter: active with session 5432bd14-36fb-4541-9850-96b3323813ed
+2026-06-18T10:50:22.219Z [INFO] Remote session export active (not steerable): https://github.com/Fusion-Solution/Fusion.ChatFramework/tasks/a4c8b052-5cb8-4072-8c85-739cfd03a267
+2026-06-18T10:50:23.037Z [ERROR] MCP client for github-mcp-server connected, took 1073ms
+2026-06-18T10:50:23.038Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-06-18T10:50:23.039Z [ERROR] GitHub MCP server configured after authentication
+2026-06-18T10:50:24.724Z [INFO] Memory enablement check: enabled
+2026-06-18T10:50:28.595Z [INFO] Unregistering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:50:28.596Z [INFO] Registering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:51:35.235Z [INFO] Unregistering foreground session: 69b2d906-7c49-4b8b-9ee3-b9e0537ed3f7
+2026-06-18T10:51:35.302Z [ERROR] MCP transport for code-review-graph closed
+2026-06-18T10:51:35.302Z [ERROR] MCP client for code-review-graph closed
+2026-06-18T10:51:35.684Z [ERROR] MCP transport for github-mcp-server closed
+2026-06-18T10:51:35.684Z [ERROR] MCP client for github-mcp-server closed

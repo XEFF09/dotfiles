@@ -1,0 +1,15 @@
+id: feeb765c-b05d-456f-bb55-ff2504dad88b
+cwd: /Users/thatpong/.dotfiles/.copilot
+git_root: /Users/thatpong/.dotfiles
+repository: XEFF09/dotfiles
+host_type: github
+branch: main
+name: /init
+client_name: github/cli
+user_named: false
+summary_count: 0
+created_at: 2026-06-08T02:44:54.319Z
+updated_at: 2026-06-08T02:45:00.960Z
+remote_steerable: false
+mc_task_id: 5d137745-dd1b-4498-bb9d-1e5e148a0503
+mc_session_id: e4e3eea8-a97e-4c20-9da4-91d0df4bb5be

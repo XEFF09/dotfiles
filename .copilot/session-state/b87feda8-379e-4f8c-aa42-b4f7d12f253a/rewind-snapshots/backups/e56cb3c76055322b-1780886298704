@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "snapshotId": "e8efbccf-ce52-4d54-9da0-acf1aeea2299",
+      "eventId": "3fdda35c-ff0a-4c41-a5d5-8af2213e755b",
+      "userMessage": "hi",
+      "timestamp": "2026-06-08T01:51:43.985Z",
+      "fileCount": 29,
+      "gitCommit": "e1893f912bc5eb82ebec82b28d292ec62bf04077",
+      "gitBranch": "main",
+      "backupHashes": [
+        "7a21a92eef84bc2e-1780883503981",
+        "effad4ff4c1625c9-1780883503982",
+        "e32d8d5bc468409b-1780883503982",
+        "785bcd0e2445721a-1780883503982",
+        "f68151793e1274c7-1780883503982",
+        "3178239657926266-1780883503982",
+        "af0bbc1920ce8f6e-1780883503982",
+        "116971d5aa0b32fa-1780883503983",
+        "c77dc94efb56275e-1780883503983",
+        "31172621921322c7-1780883503983",
+        "8036318e00e23fce-1780883503983",
+        "5832b97410165817-1780883503983",
+        "6b8b70061b3ddca6-1780883503983",
+        "7c5025dbb766e580-1780883503983",
+        "0bfdc5775b3c3525-1780883503983",
+        "10f98c7cc9e1e57a-1780883503983",
+        "d573f95869468e41-1780883503984",
+        "7f3a870e061709a1-1780883503984",
+        "a3ec0cf0ff5abf1b-1780883503984",
+        "0fca3ec738e4dd71-1780883503984",
+        "6c4f208649058b74-1780883503984",
+        "78b6870304dc4dae-1780883503984",
+        "3750ff23bf275beb-1780883503984",
+        "2bfb87336b61366a-1780883503985",
+        "a41ea06e17c16764-1780883503985",
+        "438b8b16be18480a-1780883503985",
+        "25b826f8efba2bc0-1780883503985",
+        "d9cc6982c653553a-1780883503985",
+        "f53974a665493220-1780883503985"
+      ],
+      "files": {
+        "ba68b9db56cde66737c9a2d79a0b90b2": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:7a21a92eef84bc2ed3aa11a43bff2c34b8bd4c3d",
+          "backupFile": "7a21a92eef84bc2e-1780883503981",
+          "size": 113,
+          "mtime": "2026-06-08T01:44:26.235Z",
+          "mode": 33152
+        },
+        "5c706c82a9f67ed8400280126cf0c017": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:effad4ff4c1625c93685cf2b65e8318b35866fbc",
+          "backupFile": "effad4ff4c1625c9-1780883503982",
+          "size": 144,
+          "mtime": "2026-06-01T10:20:53.905Z",
+          "mode": 33188
+        },
+        "5dc5e651373b57590b20921e31e60e86": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:e32d8d5bc468409b6bc9e82437129ac8f3dc42e7",
+          "backupFile": "e32d8d5bc468409b-1780883503982",
+          "size": 7006,
+          "mtime": "2026-06-08T01:47:15.611Z",
+          "mode": 33188
+        },
+        "d617fe2d8642d4fcffbe02f7c65cfe0c": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:785bcd0e2445721a7356135a31bd0250dbb5ef84",
+          "backupFile": "785bcd0e2445721a-1780883503982",
+          "size": 1043,
+          "mtime": "2026-06-01T16:13:43.126Z",
+          "mode": 33188
+        },
+        "9e96fd494d51f903653adc430e1584a3": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:f68151793e1274c78c6a56c1af31ae5142667456",
+          "backupFile": "f68151793e1274c7-1780883503982",
+          "size": 1109,
+          "mtime": "2026-06-02T01:39:28.720Z",
+          "mode": 33188
+        },
+        "a691cce800b22bfc54ae49f90e7a2fe7": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:317823965792626688ef7fab88eb4a4d06d8859b",
+          "backupFile": "3178239657926266-1780883503982",
+          "size": 597,
+          "mtime": "2026-06-02T04:17:36.693Z",
+          "mode": 33188
+        },
+        "88e2fcc08c06b3228a95a3325247b193": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:af0bbc1920ce8f6ef7939bee65b12473471d52ab",
+          "backupFile": "af0bbc1920ce8f6e-1780883503982",
+          "size": 1681,
+          "mtime": "2026-06-01T13:37:59.466Z",
+          "mode": 33188
+        },
+        "b6cbf6aac7f9dfb27cff59a3e0bcdfe3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:116971d5aa0b32faecb7bf0a8c4cbbd97da02a90",
+          "backupFile": "116971d5aa0b32fa-1780883503983",
+          "size": 1238,
+          "mtime": "2026-06-01T13:44:37.844Z",
+          "mode": 33188
+        },
+        "e9d1fd6f37e0994d531988ca17d346b3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:c77dc94efb56275e576f268c5c65950dc15bc334",
+          "backupFile": "c77dc94efb56275e-1780883503983",
+          "size": 1544,
+          "mtime": "2026-06-01T13:39:29.668Z",
+          "mode": 33188
+        },
+        "dfe2a25f0803caa6961db18ef36f3442": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:31172621921322c7ef271b38c50b453b2ba6bdd1",
+          "backupFile": "31172621921322c7-1780883503983",
+          "size": 421,
+          "mtime": "2026-06-04T07:47:41.537Z",
+          "mode": 33188
+        },
+        "a4d799dcd5ae7414feb7c16986d155b9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:8036318e00e23fce592056d0e4662b60c9e834fe",
+          "backupFile": "8036318e00e23fce-1780883503983",
+          "size": 79,
+          "mtime": "2026-06-04T07:44:22.827Z",
+          "mode": 33188
+        },
+        "392827a7216e8cf7eaf09bcc36365f97": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:5832b974101658177013ef69a28d71cee9a128fc",
+          "backupFile": "5832b97410165817-1780883503983",
+          "size": 308,
+          "mtime": "2026-06-04T07:37:08.970Z",
+          "mode": 33188
+        },
+        "42ca0b3b88932dc7eb042b7cbcd5e1ff": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6b8b70061b3ddca66240a9e5fae39c5f2850d75c",
+          "backupFile": "6b8b70061b3ddca6-1780883503983",
+          "size": 219,
+          "mtime": "2026-06-01T08:54:03.681Z",
+          "mode": 33188
+        },
+        "b29a21fdd1e325a39e1d5fd90ce3b886": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7c5025dbb766e580bde53f57f6c5529bc81bacd2",
+          "backupFile": "7c5025dbb766e580-1780883503983",
+          "size": 374,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "32ef6778a706bb5d51c7cc4f7ffd41df": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0bfdc5775b3c352553419b29bd8a8a2ec4375c5e",
+          "backupFile": "0bfdc5775b3c3525-1780883503983",
+          "size": 319,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "9b52e437677bd31f445d6645d6536b44": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:10f98c7cc9e1e57a688040366e83359cfcf9d726",
+          "backupFile": "10f98c7cc9e1e57a-1780883503983",
+          "size": 500,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "6c84593c1e1b83705d39f352f852a946": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d573f95869468e4172ff84f3a2e38a7955230916",
+          "backupFile": "d573f95869468e41-1780883503984",
+          "size": 10032,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "d310e4cfc0203a8877a23a4b64982fb9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7f3a870e061709a10afe58f2e3821829aff02765",
+          "backupFile": "7f3a870e061709a1-1780883503984",
+          "size": 5957,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "a4c99a593b189ff2905c12b9b66d43d4": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a3ec0cf0ff5abf1b41feedb1332ca9e66b3d6ee4",
+          "backupFile": "a3ec0cf0ff5abf1b-1780883503984",
+          "size": 1870,
+          "mtime": "2026-06-03T10:57:36.215Z",
+          "mode": 33188
+        },
+        "7f130d9827c58a804251d11ff0f1ac1b": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0fca3ec738e4dd713b7a5e2928fb32d716f0ee39",
+          "backupFile": "0fca3ec738e4dd71-1780883503984",
+          "size": 6,
+          "mtime": "2026-06-03T08:30:24.988Z",
+          "mode": 33188
+        },
+        "ba0b6b42f0c5560d41c76bbb114d5d3a": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6c4f208649058b740efd82d8835e950d69b60a38",
+          "backupFile": "6c4f208649058b74-1780883503984",
+          "size": 32044,
+          "mtime": "2026-06-03T08:30:24.987Z",
+          "mode": 33188
+        },
+        "e89db008ca9178bed1295502bb83120e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:78b6870304dc4dae7ebbe610b8c13dfdba729048",
+          "backupFile": "78b6870304dc4dae-1780883503984",
+          "size": 2457,
+          "mtime": "2026-06-03T08:28:56.080Z",
+          "mode": 33188
+        },
+        "301a75cd563dcbfbfafb7b8cc9ee029a": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:3750ff23bf275bebee85592ab2860c02bf7d43b3",
+          "backupFile": "3750ff23bf275beb-1780883503984",
+          "size": 2163,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "7ecb997a0b270eddb2c144e5e9449eec": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:2bfb87336b61366a73b73be63c8bd74387cf9461",
+          "backupFile": "2bfb87336b61366a-1780883503985",
+          "size": 7161,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "4a3dfb4decc587b728e32c9fa19a27a9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a41ea06e17c1676483356a2a06504a1bfb0870e4",
+          "backupFile": "a41ea06e17c16764-1780883503985",
+          "size": 2177,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "fb53fc6bb381c55c327387dda729c373": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:438b8b16be18480a1e77759b3e74fc8a9e97eae7",
+          "backupFile": "438b8b16be18480a-1780883503985",
+          "size": 1267,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "8580a5c9d4a48614319ca5dbce457f0c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:25b826f8efba2bc071a1c71a469de961c0196c58",
+          "backupFile": "25b826f8efba2bc0-1780883503985",
+          "size": 9076,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "f03644f77445e88ba708584985956c94": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d9cc6982c653553ad6bd5700a33ce417e2845ce6",
+          "backupFile": "d9cc6982c653553a-1780883503985",
+          "size": 2652,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "af5d786d169d96d6d9f8a8864cbec5b3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:f53974a665493220e71c611bc0b96c3e4feab61b",
+          "backupFile": "f53974a665493220-1780883503985",
+          "size": 7139,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        }
+      }
+    }
+  ],
+  "filePathMap": {
+    "ba68b9db56cde66737c9a2d79a0b90b2": "/Users/thatpong/.dotfiles/.config/gh/hosts.yml",
+    "5c706c82a9f67ed8400280126cf0c017": "/Users/thatpong/.dotfiles/.config/nvim/init.lua",
+    "5dc5e651373b57590b20921e31e60e86": "/Users/thatpong/.dotfiles/.config/nvim/lazy-lock.json",
+    "d617fe2d8642d4fcffbe02f7c65cfe0c": "/Users/thatpong/.dotfiles/.config/nvim/lua/config/keymaps.lua",
+    "9e96fd494d51f903653adc430e1584a3": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/lsp.lua",
+    "a691cce800b22bfc54ae49f90e7a2fe7": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/mason.lua",
+    "88e2fcc08c06b3228a95a3325247b193": "/Users/thatpong/.dotfiles/.zshrc",
+    "b6cbf6aac7f9dfb27cff59a3e0bcdfe3": "/Users/thatpong/.dotfiles/.config/nvim/lua/config/nvim-dap.lua",
+    "e9d1fd6f37e0994d531988ca17d346b3": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/dap.lua",
+    "dfe2a25f0803caa6961db18ef36f3442": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/disable-md-format.lua",
+    "a4d799dcd5ae7414feb7c16986d155b9": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/disable-render-markdown.lua",
+    "392827a7216e8cf7eaf09bcc36365f97": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/markdown-preview.lua",
+    "42ca0b3b88932dc7eb042b7cbcd5e1ff": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/tiny-diagnos.lua",
+    "b29a21fdd1e325a39e1d5fd90ce3b886": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman-commit.md",
+    "32ef6778a706bb5d51c7cc4f7ffd41df": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman-review.md",
+    "9b52e437677bd31f445d6645d6536b44": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman.md",
+    "6c84593c1e1b83705d39f352f852a946": "/Users/thatpong/.dotfiles/.config/opencode/plugins/caveman/caveman-config.cjs",
+    "d310e4cfc0203a8877a23a4b64982fb9": "/Users/thatpong/.dotfiles/.config/opencode/plugins/caveman/plugin.js",
+    "a4c99a593b189ff2905c12b9b66d43d4": "/Users/thatpong/.dotfiles/.config/opencode/plugins/crg-plugin.ts",
+    "7f130d9827c58a804251d11ff0f1ac1b": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/.graphify_version",
+    "ba0b6b42f0c5560d41c76bbb114d5d3a": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/SKILL.md",
+    "e89db008ca9178bed1295502bb83120e": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/add-watch.md",
+    "301a75cd563dcbfbfafb7b8cc9ee029a": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/exports.md",
+    "7ecb997a0b270eddb2c144e5e9449eec": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/extraction-spec.md",
+    "4a3dfb4decc587b728e32c9fa19a27a9": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/github-and-merge.md",
+    "fb53fc6bb381c55c327387dda729c373": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/hooks.md",
+    "8580a5c9d4a48614319ca5dbce457f0c": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/query.md",
+    "f03644f77445e88ba708584985956c94": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/transcribe.md",
+    "af5d786d169d96d6d9f8a8864cbec5b3": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/update.md"
+  }
+}

@@ -1,0 +1,1062 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "snapshotId": "ca03a4c5-6698-4e02-b2ba-81fe279edf5f",
+      "eventId": "20c40014-47ba-42a9-b180-d37a8494672e",
+      "userMessage": "/init",
+      "timestamp": "2026-06-08T02:38:18.705Z",
+      "fileCount": 104,
+      "gitCommit": "e1893f912bc5eb82ebec82b28d292ec62bf04077",
+      "gitBranch": "main",
+      "backupHashes": [
+        "7a21a92eef84bc2e-1780886298696",
+        "effad4ff4c1625c9-1780886298696",
+        "e32d8d5bc468409b-1780886298696",
+        "785bcd0e2445721a-1780886298696",
+        "f68151793e1274c7-1780886298696",
+        "3178239657926266-1780886298696",
+        "af0bbc1920ce8f6e-1780886298697",
+        "116971d5aa0b32fa-1780886298697",
+        "c77dc94efb56275e-1780886298697",
+        "31172621921322c7-1780886298697",
+        "8036318e00e23fce-1780886298697",
+        "5832b97410165817-1780886298697",
+        "6b8b70061b3ddca6-1780886298697",
+        "7c5025dbb766e580-1780886298698",
+        "0bfdc5775b3c3525-1780886298698",
+        "10f98c7cc9e1e57a-1780886298698",
+        "d573f95869468e41-1780886298698",
+        "7f3a870e061709a1-1780886298698",
+        "a3ec0cf0ff5abf1b-1780886298698",
+        "0fca3ec738e4dd71-1780886298698",
+        "6c4f208649058b74-1780886298699",
+        "78b6870304dc4dae-1780886298699",
+        "3750ff23bf275beb-1780886298699",
+        "2bfb87336b61366a-1780886298699",
+        "a41ea06e17c16764-1780886298699",
+        "438b8b16be18480a-1780886298699",
+        "25b826f8efba2bc0-1780886298699",
+        "d9cc6982c653553a-1780886298700",
+        "f53974a665493220-1780886298700",
+        "87747fb2d6b22644-1780886298700",
+        "344e2e94c0e4b9f6-1780886298700",
+        "172d023b9bb92efb-1780886298700",
+        "438f31835ffc1fcb-1780886298700",
+        "b6c219581357d1d4-1780886298700",
+        "72e9b988ad08a190-1780886298701",
+        "a0591e07b27d5bdc-1780886298701",
+        "62fb6b44c77209d9-1780886298701",
+        "ec6d9e7f9d2204a4-1780886298701",
+        "65b58216f0b5997b-1780886298701",
+        "0a8324732478ceae-1780886298701",
+        "295a408d9d3cb498-1780886298701",
+        "509bcbb88294fcad-1780886298701",
+        "2edbe05fd5131f73-1780886298702",
+        "e923875ed3e1767f-1780886298702",
+        "9955cc32cfc5306d-1780886298702",
+        "e923875ed3e1767f-1780886298702",
+        "d9c2364357be5fd5-1780886298702",
+        "e923875ed3e1767f-1780886298702",
+        "caebba4ef5c59c3a-1780886298702",
+        "8639ac8a51e9d13a-1780886298703",
+        "e6dd5d21f5cdf866-1780886298703",
+        "e923875ed3e1767f-1780886298702",
+        "9266a90b573c8281-1780886298703",
+        "e923875ed3e1767f-1780886298702",
+        "6a8493ed5fb97b84-1780886298703",
+        "e923875ed3e1767f-1780886298702",
+        "654491490a31ad71-1780886298703",
+        "e923875ed3e1767f-1780886298702",
+        "ce95d18a88a5c6c6-1780886298703",
+        "e923875ed3e1767f-1780886298702",
+        "dd4fd67c771b9089-1780886298704",
+        "0bfdc5775b3c3525-1780886298698",
+        "0fca3ec738e4dd71-1780886298698",
+        "10f98c7cc9e1e57a-1780886298698",
+        "116971d5aa0b32fa-1780886298697",
+        "25b826f8efba2bc0-1780886298699",
+        "2bfb87336b61366a-1780886298699",
+        "31172621921322c7-1780886298697",
+        "3178239657926266-1780886298696",
+        "3750ff23bf275beb-1780886298699",
+        "438b8b16be18480a-1780886298699",
+        "5832b97410165817-1780886298697",
+        "6b8b70061b3ddca6-1780886298697",
+        "6c4f208649058b74-1780886298699",
+        "785bcd0e2445721a-1780886298696",
+        "78b6870304dc4dae-1780886298699",
+        "7a21a92eef84bc2e-1780886298696",
+        "7c5025dbb766e580-1780886298698",
+        "7f3a870e061709a1-1780886298698",
+        "8036318e00e23fce-1780886298697",
+        "a3ec0cf0ff5abf1b-1780886298698",
+        "a41ea06e17c16764-1780886298699",
+        "af0bbc1920ce8f6e-1780886298697",
+        "c77dc94efb56275e-1780886298697",
+        "d573f95869468e41-1780886298698",
+        "d9cc6982c653553a-1780886298700",
+        "e32d8d5bc468409b-1780886298696",
+        "effad4ff4c1625c9-1780886298696",
+        "f53974a665493220-1780886298700",
+        "f68151793e1274c7-1780886298696",
+        "e56cb3c76055322b-1780886298704",
+        "8639ac8a51e9d13a-1780886298703",
+        "bcd30ebde9fc5dff-1780886298704",
+        "e923875ed3e1767f-1780886298702",
+        "e595dc885990fdd1-1780886298704",
+        "2e1d95719007ef94-1780886298705",
+        "e923875ed3e1767f-1780886298702",
+        "08be05847ae7f779-1780886298705",
+        "e923875ed3e1767f-1780886298702",
+        "cb891c7d95f6b47d-1780886298705",
+        "55f9690bfadeaf56-1780886298705",
+        "e566b6598d834564-1780886298705",
+        "bc73a6e91ec70d2a-1780886298705",
+        "fc1ce06d3cd7dff2-1780886298705"
+      ],
+      "files": {
+        "ba68b9db56cde66737c9a2d79a0b90b2": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:7a21a92eef84bc2ed3aa11a43bff2c34b8bd4c3d",
+          "backupFile": "7a21a92eef84bc2e-1780886298696",
+          "size": 113,
+          "mtime": "2026-06-08T01:44:26.235Z",
+          "mode": 33152
+        },
+        "5c706c82a9f67ed8400280126cf0c017": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:effad4ff4c1625c93685cf2b65e8318b35866fbc",
+          "backupFile": "effad4ff4c1625c9-1780886298696",
+          "size": 144,
+          "mtime": "2026-06-01T10:20:53.905Z",
+          "mode": 33188
+        },
+        "5dc5e651373b57590b20921e31e60e86": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:e32d8d5bc468409b6bc9e82437129ac8f3dc42e7",
+          "backupFile": "e32d8d5bc468409b-1780886298696",
+          "size": 7006,
+          "mtime": "2026-06-08T01:47:15.611Z",
+          "mode": 33188
+        },
+        "d617fe2d8642d4fcffbe02f7c65cfe0c": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:785bcd0e2445721a7356135a31bd0250dbb5ef84",
+          "backupFile": "785bcd0e2445721a-1780886298696",
+          "size": 1043,
+          "mtime": "2026-06-01T16:13:43.126Z",
+          "mode": 33188
+        },
+        "9e96fd494d51f903653adc430e1584a3": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:f68151793e1274c78c6a56c1af31ae5142667456",
+          "backupFile": "f68151793e1274c7-1780886298696",
+          "size": 1109,
+          "mtime": "2026-06-02T01:39:28.720Z",
+          "mode": 33188
+        },
+        "a691cce800b22bfc54ae49f90e7a2fe7": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:317823965792626688ef7fab88eb4a4d06d8859b",
+          "backupFile": "3178239657926266-1780886298696",
+          "size": 597,
+          "mtime": "2026-06-02T04:17:36.693Z",
+          "mode": 33188
+        },
+        "88e2fcc08c06b3228a95a3325247b193": {
+          "gitStatus": " M",
+          "contentHash": "git-sha1:af0bbc1920ce8f6ef7939bee65b12473471d52ab",
+          "backupFile": "af0bbc1920ce8f6e-1780886298697",
+          "size": 1681,
+          "mtime": "2026-06-01T13:37:59.466Z",
+          "mode": 33188
+        },
+        "b6cbf6aac7f9dfb27cff59a3e0bcdfe3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:116971d5aa0b32faecb7bf0a8c4cbbd97da02a90",
+          "backupFile": "116971d5aa0b32fa-1780886298697",
+          "size": 1238,
+          "mtime": "2026-06-01T13:44:37.844Z",
+          "mode": 33188
+        },
+        "e9d1fd6f37e0994d531988ca17d346b3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:c77dc94efb56275e576f268c5c65950dc15bc334",
+          "backupFile": "c77dc94efb56275e-1780886298697",
+          "size": 1544,
+          "mtime": "2026-06-01T13:39:29.668Z",
+          "mode": 33188
+        },
+        "dfe2a25f0803caa6961db18ef36f3442": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:31172621921322c7ef271b38c50b453b2ba6bdd1",
+          "backupFile": "31172621921322c7-1780886298697",
+          "size": 421,
+          "mtime": "2026-06-04T07:47:41.537Z",
+          "mode": 33188
+        },
+        "a4d799dcd5ae7414feb7c16986d155b9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:8036318e00e23fce592056d0e4662b60c9e834fe",
+          "backupFile": "8036318e00e23fce-1780886298697",
+          "size": 79,
+          "mtime": "2026-06-04T07:44:22.827Z",
+          "mode": 33188
+        },
+        "392827a7216e8cf7eaf09bcc36365f97": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:5832b974101658177013ef69a28d71cee9a128fc",
+          "backupFile": "5832b97410165817-1780886298697",
+          "size": 308,
+          "mtime": "2026-06-04T07:37:08.970Z",
+          "mode": 33188
+        },
+        "42ca0b3b88932dc7eb042b7cbcd5e1ff": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6b8b70061b3ddca66240a9e5fae39c5f2850d75c",
+          "backupFile": "6b8b70061b3ddca6-1780886298697",
+          "size": 219,
+          "mtime": "2026-06-01T08:54:03.681Z",
+          "mode": 33188
+        },
+        "b29a21fdd1e325a39e1d5fd90ce3b886": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7c5025dbb766e580bde53f57f6c5529bc81bacd2",
+          "backupFile": "7c5025dbb766e580-1780886298698",
+          "size": 374,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "32ef6778a706bb5d51c7cc4f7ffd41df": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0bfdc5775b3c352553419b29bd8a8a2ec4375c5e",
+          "backupFile": "0bfdc5775b3c3525-1780886298698",
+          "size": 319,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "9b52e437677bd31f445d6645d6536b44": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:10f98c7cc9e1e57a688040366e83359cfcf9d726",
+          "backupFile": "10f98c7cc9e1e57a-1780886298698",
+          "size": 500,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "6c84593c1e1b83705d39f352f852a946": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d573f95869468e4172ff84f3a2e38a7955230916",
+          "backupFile": "d573f95869468e41-1780886298698",
+          "size": 10032,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "d310e4cfc0203a8877a23a4b64982fb9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7f3a870e061709a10afe58f2e3821829aff02765",
+          "backupFile": "7f3a870e061709a1-1780886298698",
+          "size": 5957,
+          "mtime": "2026-06-03T08:22:51.225Z",
+          "mode": 33188
+        },
+        "a4c99a593b189ff2905c12b9b66d43d4": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a3ec0cf0ff5abf1b41feedb1332ca9e66b3d6ee4",
+          "backupFile": "a3ec0cf0ff5abf1b-1780886298698",
+          "size": 1870,
+          "mtime": "2026-06-03T10:57:36.215Z",
+          "mode": 33188
+        },
+        "7f130d9827c58a804251d11ff0f1ac1b": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0fca3ec738e4dd713b7a5e2928fb32d716f0ee39",
+          "backupFile": "0fca3ec738e4dd71-1780886298698",
+          "size": 6,
+          "mtime": "2026-06-03T08:30:24.988Z",
+          "mode": 33188
+        },
+        "ba0b6b42f0c5560d41c76bbb114d5d3a": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6c4f208649058b740efd82d8835e950d69b60a38",
+          "backupFile": "6c4f208649058b74-1780886298699",
+          "size": 32044,
+          "mtime": "2026-06-03T08:30:24.987Z",
+          "mode": 33188
+        },
+        "e89db008ca9178bed1295502bb83120e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:78b6870304dc4dae7ebbe610b8c13dfdba729048",
+          "backupFile": "78b6870304dc4dae-1780886298699",
+          "size": 2457,
+          "mtime": "2026-06-03T08:28:56.080Z",
+          "mode": 33188
+        },
+        "301a75cd563dcbfbfafb7b8cc9ee029a": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:3750ff23bf275bebee85592ab2860c02bf7d43b3",
+          "backupFile": "3750ff23bf275beb-1780886298699",
+          "size": 2163,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "7ecb997a0b270eddb2c144e5e9449eec": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:2bfb87336b61366a73b73be63c8bd74387cf9461",
+          "backupFile": "2bfb87336b61366a-1780886298699",
+          "size": 7161,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "4a3dfb4decc587b728e32c9fa19a27a9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a41ea06e17c1676483356a2a06504a1bfb0870e4",
+          "backupFile": "a41ea06e17c16764-1780886298699",
+          "size": 2177,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "fb53fc6bb381c55c327387dda729c373": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:438b8b16be18480a1e77759b3e74fc8a9e97eae7",
+          "backupFile": "438b8b16be18480a-1780886298699",
+          "size": 1267,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "8580a5c9d4a48614319ca5dbce457f0c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:25b826f8efba2bc071a1c71a469de961c0196c58",
+          "backupFile": "25b826f8efba2bc0-1780886298699",
+          "size": 9076,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "f03644f77445e88ba708584985956c94": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d9cc6982c653553ad6bd5700a33ce417e2845ce6",
+          "backupFile": "d9cc6982c653553a-1780886298700",
+          "size": 2652,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "af5d786d169d96d6d9f8a8864cbec5b3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:f53974a665493220e71c611bc0b96c3e4feab61b",
+          "backupFile": "f53974a665493220-1780886298700",
+          "size": 7139,
+          "mtime": "2026-06-03T08:28:56.081Z",
+          "mode": 33188
+        },
+        "4ed0fdfbf29482d36c7fc6128f565cc0": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:87747fb2d6b22644adda971a27fc8f4e402f5537",
+          "backupFile": "87747fb2d6b22644-1780886298700",
+          "size": 362,
+          "mtime": "2026-06-08T02:38:18.537Z",
+          "mode": 33152
+        },
+        "36b265ea8ea9262a15cd2dd6618dc906": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:344e2e94c0e4b9f634140b1ecb14ff11b1747940",
+          "backupFile": "344e2e94c0e4b9f6-1780886298700",
+          "size": 3752,
+          "mtime": "2026-06-08T02:38:08.332Z",
+          "mode": 33152
+        },
+        "9fbf0b7174275090f3400a52c07e9a94": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:172d023b9bb92efbd24566dfc6f878b1792f685b",
+          "backupFile": "172d023b9bb92efb-1780886298700",
+          "size": 1701,
+          "mtime": "2026-06-08T01:56:52.009Z",
+          "mode": 33188
+        },
+        "81a2feefd3ea83741d15f3883519a534": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:438f31835ffc1fcb5469a1b1ee3f034b4af09c84",
+          "backupFile": "438f31835ffc1fcb-1780886298700",
+          "size": 3246,
+          "mtime": "2026-06-08T01:58:22.775Z",
+          "mode": 33188
+        },
+        "52af77d71a7181adc2d8e99e7039ea5e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:b6c219581357d1d4faf06abd0036985438c84fdd",
+          "backupFile": "b6c219581357d1d4-1780886298700",
+          "size": 2612,
+          "mtime": "2026-06-08T02:01:26.150Z",
+          "mode": 33188
+        },
+        "eb70942acb7d4292e1d5c0ffedc1f7a8": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:72e9b988ad08a190003767ba5c6f402b26d30852",
+          "backupFile": "72e9b988ad08a190-1780886298701",
+          "size": 2607,
+          "mtime": "2026-06-08T02:02:09.132Z",
+          "mode": 33188
+        },
+        "d6bf52ccd39e44acd4652e54cbc9cc75": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a0591e07b27d5bdc3cc758b1933cd10601bd4923",
+          "backupFile": "a0591e07b27d5bdc-1780886298701",
+          "size": 4426,
+          "mtime": "2026-06-08T02:04:34.714Z",
+          "mode": 33188
+        },
+        "e88c059c97d781bdfffb285bf01b44b1": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:62fb6b44c77209d9f7a2113af72f5ae9d67bdd31",
+          "backupFile": "62fb6b44c77209d9-1780886298701",
+          "size": 4570,
+          "mtime": "2026-06-08T02:06:15.451Z",
+          "mode": 33188
+        },
+        "5e81819f7c197250d7e41627934d2fd0": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:ec6d9e7f9d2204a4b87360dc2581328b7bd4e73b",
+          "backupFile": "ec6d9e7f9d2204a4-1780886298701",
+          "size": 4573,
+          "mtime": "2026-06-08T02:07:23.934Z",
+          "mode": 33188
+        },
+        "ae9f86864a4f1b0e63667f42185facd3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:65b58216f0b5997b8c19fa3eaf7005437ddd32bb",
+          "backupFile": "65b58216f0b5997b-1780886298701",
+          "size": 4425,
+          "mtime": "2026-06-08T02:30:19.994Z",
+          "mode": 33188
+        },
+        "b5745d4d19ed818a55dd36b11656f2a7": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0a8324732478ceae31d7657d163bcb91c7b1695a",
+          "backupFile": "0a8324732478ceae-1780886298701",
+          "size": 4575,
+          "mtime": "2026-06-08T02:32:24.396Z",
+          "mode": 33188
+        },
+        "97985063901ba46de97b7bc80e057244": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:295a408d9d3cb49894e81a11526f99e262a60f0a",
+          "backupFile": "295a408d9d3cb498-1780886298701",
+          "size": 41943,
+          "mtime": "2026-06-08T02:37:44.045Z",
+          "mode": 33188
+        },
+        "fa612b71a0593382d4766bb22d74d465": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:509bcbb88294fcadc1ac8f308d7f7a5bc70bab57",
+          "backupFile": "509bcbb88294fcad-1780886298701",
+          "size": 5096,
+          "mtime": "2026-06-08T02:38:18.605Z",
+          "mode": 33188
+        },
+        "8a3c3dc0986164fbddffdbd1f2077c0e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:2edbe05fd5131f73df127630bd5e983b7340eae2",
+          "backupFile": "2edbe05fd5131f73-1780886298702",
+          "size": 151,
+          "mtime": "2026-06-08T02:02:07.553Z",
+          "mode": 33188
+        },
+        "86e9e2b3fe0e4b3d56e843090ea47e9d": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:02:11.913Z",
+          "mode": 33188
+        },
+        "d41bd1a403bad53712a34bd968bd693c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:9955cc32cfc5306daecad3b2861c9147b18c2788",
+          "backupFile": "9955cc32cfc5306d-1780886298702",
+          "size": 488,
+          "mtime": "2026-06-08T02:04:34.651Z",
+          "mode": 33152
+        },
+        "3714dc680bc5feb50b27690afc1f5801": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:01:28.970Z",
+          "mode": 33188
+        },
+        "fd6e2c267f61a3503e08067475da03a4": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d9c2364357be5fd52c54c0133018f87a56ea6127",
+          "backupFile": "d9c2364357be5fd5-1780886298702",
+          "size": 488,
+          "mtime": "2026-06-08T02:02:09.135Z",
+          "mode": 33152
+        },
+        "790ad82e6bea0936192ed94d28092096": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:32:49.818Z",
+          "mode": 33188
+        },
+        "8f45aedfa204fb13bb26485789c283a2": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:caebba4ef5c59c3a8e632ca54b2062f52b00c8b6",
+          "backupFile": "caebba4ef5c59c3a-1780886298702",
+          "size": 443958,
+          "mtime": "2026-06-08T02:37:43.074Z",
+          "mode": 33152
+        },
+        "c28ec7ceb8b2c6b430702a56b78ca299": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:8639ac8a51e9d13a9dc7957adc50409d197b0b41",
+          "backupFile": "8639ac8a51e9d13a-1780886298703",
+          "size": 28672,
+          "mtime": "2026-06-08T02:33:34.304Z",
+          "mode": 33188
+        },
+        "12861506d3d88c2dde3985263fed6bb3": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e6dd5d21f5cdf866ae9e69f4650106a66e76bd09",
+          "backupFile": "e6dd5d21f5cdf866-1780886298703",
+          "size": 447,
+          "mtime": "2026-06-08T02:37:43.083Z",
+          "mode": 33152
+        },
+        "1b82dc4583d8e7bdc049417c908ea85c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:07:35.663Z",
+          "mode": 33188
+        },
+        "10c46f2329ee2a885aa7ac7479b86fce": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:9266a90b573c8281b6e1b4b2a6f2ee4dea79ae4e",
+          "backupFile": "9266a90b573c8281-1780886298703",
+          "size": 488,
+          "mtime": "2026-06-08T02:30:19.949Z",
+          "mode": 33152
+        },
+        "419ea583da575a7cec8fd4af7e5f51ea": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:06:19.139Z",
+          "mode": 33188
+        },
+        "191555a505d3c9d002bc9017dddf457e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6a8493ed5fb97b847f7483bfe2fff00c3d18d117",
+          "backupFile": "6a8493ed5fb97b84-1780886298703",
+          "size": 488,
+          "mtime": "2026-06-08T02:07:23.512Z",
+          "mode": 33152
+        },
+        "4d8582deffcfbd9e34bcee3731fc8378": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:04:41.746Z",
+          "mode": 33188
+        },
+        "1ab285081a6fa7a53210e5d41754e56c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:654491490a31ad711b02056f2d5b946b451fa291",
+          "backupFile": "654491490a31ad71-1780886298703",
+          "size": 488,
+          "mtime": "2026-06-08T02:06:14.545Z",
+          "mode": 33152
+        },
+        "b19e9e1d2410aee2445e08388ea93767": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T01:58:28.880Z",
+          "mode": 33188
+        },
+        "f76a55fa961c8979f454631bd93eeea5": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:ce95d18a88a5c6c6f0999f76eb6af02173718214",
+          "backupFile": "ce95d18a88a5c6c6-1780886298703",
+          "size": 488,
+          "mtime": "2026-06-08T02:01:26.155Z",
+          "mode": 33152
+        },
+        "a6666a1b15dad00eafcbb6bd99fa8097": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T01:56:51.999Z",
+          "mode": 33188
+        },
+        "d3b273efc1a95df0e93f88bba7cc7fde": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:dd4fd67c771b908994260f0cb51b5a3580cab0fc",
+          "backupFile": "dd4fd67c771b9089-1780886298704",
+          "size": 45976,
+          "mtime": "2026-06-08T01:58:22.775Z",
+          "mode": 33152
+        },
+        "980f00829b96894855bcf0cf4e7cc5d0": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0bfdc5775b3c352553419b29bd8a8a2ec4375c5e",
+          "backupFile": "0bfdc5775b3c3525-1780886298698",
+          "size": 319,
+          "mtime": "2026-06-08T01:56:52.004Z",
+          "mode": 33188
+        },
+        "047704b8eaf8c5eaf995975e5acb4ef7": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:0fca3ec738e4dd713b7a5e2928fb32d716f0ee39",
+          "backupFile": "0fca3ec738e4dd71-1780886298698",
+          "size": 6,
+          "mtime": "2026-06-08T01:56:52.006Z",
+          "mode": 33188
+        },
+        "f5123984ecda231123eb482a21906ba4": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:10f98c7cc9e1e57a688040366e83359cfcf9d726",
+          "backupFile": "10f98c7cc9e1e57a-1780886298698",
+          "size": 500,
+          "mtime": "2026-06-08T01:56:52.006Z",
+          "mode": 33188
+        },
+        "ece4ef05bfe2ebf977c530822db3b692": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:116971d5aa0b32faecb7bf0a8c4cbbd97da02a90",
+          "backupFile": "116971d5aa0b32fa-1780886298697",
+          "size": 1238,
+          "mtime": "2026-06-08T01:56:52.003Z",
+          "mode": 33188
+        },
+        "2abc70fe1525832ff911b00b2d1be7fb": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:25b826f8efba2bc071a1c71a469de961c0196c58",
+          "backupFile": "25b826f8efba2bc0-1780886298699",
+          "size": 9076,
+          "mtime": "2026-06-08T01:56:52.007Z",
+          "mode": 33188
+        },
+        "8f5dc3939362c1cae6d46014e1c32b04": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:2bfb87336b61366a73b73be63c8bd74387cf9461",
+          "backupFile": "2bfb87336b61366a-1780886298699",
+          "size": 7161,
+          "mtime": "2026-06-08T01:56:52.005Z",
+          "mode": 33188
+        },
+        "24489c6d51d1f331bae24343d777f10b": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:31172621921322c7ef271b38c50b453b2ba6bdd1",
+          "backupFile": "31172621921322c7-1780886298697",
+          "size": 421,
+          "mtime": "2026-06-08T01:56:52.002Z",
+          "mode": 33188
+        },
+        "d1cd79f4058f04f2a00d76cacfbecbd6": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:317823965792626688ef7fab88eb4a4d06d8859b",
+          "backupFile": "3178239657926266-1780886298696",
+          "size": 597,
+          "mtime": "2026-06-08T01:56:52.007Z",
+          "mode": 33188
+        },
+        "55150d4cacac12ff9a9b615f0e85c807": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:3750ff23bf275bebee85592ab2860c02bf7d43b3",
+          "backupFile": "3750ff23bf275beb-1780886298699",
+          "size": 2163,
+          "mtime": "2026-06-08T01:56:52.006Z",
+          "mode": 33188
+        },
+        "b128bdaa54b5d5bda0dc3632a654feef": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:438b8b16be18480a1e77759b3e74fc8a9e97eae7",
+          "backupFile": "438b8b16be18480a-1780886298699",
+          "size": 1267,
+          "mtime": "2026-06-08T01:56:52.003Z",
+          "mode": 33188
+        },
+        "4055c7d09239d4b84ff5221477e39778": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:5832b974101658177013ef69a28d71cee9a128fc",
+          "backupFile": "5832b97410165817-1780886298697",
+          "size": 308,
+          "mtime": "2026-06-08T01:56:52.004Z",
+          "mode": 33188
+        },
+        "6b08e89543b1bf982e25153620ae1838": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6b8b70061b3ddca66240a9e5fae39c5f2850d75c",
+          "backupFile": "6b8b70061b3ddca6-1780886298697",
+          "size": 219,
+          "mtime": "2026-06-08T01:56:52.000Z",
+          "mode": 33188
+        },
+        "5068ffdcf3387e1f2211682261f2ebef": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:6c4f208649058b740efd82d8835e950d69b60a38",
+          "backupFile": "6c4f208649058b74-1780886298699",
+          "size": 32044,
+          "mtime": "2026-06-08T01:56:52.005Z",
+          "mode": 33188
+        },
+        "0d68fb82b88d171bac1e926e44b7109c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:785bcd0e2445721a7356135a31bd0250dbb5ef84",
+          "backupFile": "785bcd0e2445721a-1780886298696",
+          "size": 1043,
+          "mtime": "2026-06-08T01:56:52.003Z",
+          "mode": 33188
+        },
+        "39c28aa228fb7ea63bf9abd1b040c82d": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:78b6870304dc4dae7ebbe610b8c13dfdba729048",
+          "backupFile": "78b6870304dc4dae-1780886298699",
+          "size": 2457,
+          "mtime": "2026-06-08T01:56:52.002Z",
+          "mode": 33188
+        },
+        "8143ce3e3e05414e02c6e89406858739": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7a21a92eef84bc2ed3aa11a43bff2c34b8bd4c3d",
+          "backupFile": "7a21a92eef84bc2e-1780886298696",
+          "size": 113,
+          "mtime": "2026-06-08T01:56:52.006Z",
+          "mode": 33152
+        },
+        "95136cd38a93832655ec88bfdc986f88": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7c5025dbb766e580bde53f57f6c5529bc81bacd2",
+          "backupFile": "7c5025dbb766e580-1780886298698",
+          "size": 374,
+          "mtime": "2026-06-08T01:56:52.002Z",
+          "mode": 33188
+        },
+        "7f6da3a42026a5ae06cafbd55dce20d8": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:7f3a870e061709a10afe58f2e3821829aff02765",
+          "backupFile": "7f3a870e061709a1-1780886298698",
+          "size": 5957,
+          "mtime": "2026-06-08T01:56:52.006Z",
+          "mode": 33188
+        },
+        "f58460c3775f36fc151d652257b99f50": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:8036318e00e23fce592056d0e4662b60c9e834fe",
+          "backupFile": "8036318e00e23fce-1780886298697",
+          "size": 79,
+          "mtime": "2026-06-08T01:56:52.000Z",
+          "mode": 33188
+        },
+        "351f3fcd441649dc26e8f0bf388b8ce7": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a3ec0cf0ff5abf1b41feedb1332ca9e66b3d6ee4",
+          "backupFile": "a3ec0cf0ff5abf1b-1780886298698",
+          "size": 1870,
+          "mtime": "2026-06-08T01:56:52.001Z",
+          "mode": 33188
+        },
+        "b8fda996e2e27e286539d47a437f81c6": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:a41ea06e17c1676483356a2a06504a1bfb0870e4",
+          "backupFile": "a41ea06e17c16764-1780886298699",
+          "size": 2177,
+          "mtime": "2026-06-08T01:56:52.002Z",
+          "mode": 33188
+        },
+        "2ef85df9218772385882ddfe258e5119": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:af0bbc1920ce8f6ef7939bee65b12473471d52ab",
+          "backupFile": "af0bbc1920ce8f6e-1780886298697",
+          "size": 1681,
+          "mtime": "2026-06-08T01:56:52.004Z",
+          "mode": 33188
+        },
+        "9e9c7468af9d93038c50090bf1bd7c70": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:c77dc94efb56275e576f268c5c65950dc15bc334",
+          "backupFile": "c77dc94efb56275e-1780886298697",
+          "size": 1544,
+          "mtime": "2026-06-08T01:56:52.001Z",
+          "mode": 33188
+        },
+        "1f78ceb6745a8db5af6784bd61adcdc8": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d573f95869468e4172ff84f3a2e38a7955230916",
+          "backupFile": "d573f95869468e41-1780886298698",
+          "size": 10032,
+          "mtime": "2026-06-08T01:56:52.001Z",
+          "mode": 33188
+        },
+        "361f581474a115fcb76ebd4e8b2b11ed": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:d9cc6982c653553ad6bd5700a33ce417e2845ce6",
+          "backupFile": "d9cc6982c653553a-1780886298700",
+          "size": 2652,
+          "mtime": "2026-06-08T01:56:52.002Z",
+          "mode": 33188
+        },
+        "369def92869dd3d440c77b0ea1eb83a0": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e32d8d5bc468409b6bc9e82437129ac8f3dc42e7",
+          "backupFile": "e32d8d5bc468409b-1780886298696",
+          "size": 7006,
+          "mtime": "2026-06-08T01:56:52.005Z",
+          "mode": 33188
+        },
+        "6b318bd812470c7b297490be99815fad": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:effad4ff4c1625c93685cf2b65e8318b35866fbc",
+          "backupFile": "effad4ff4c1625c9-1780886298696",
+          "size": 144,
+          "mtime": "2026-06-08T01:56:52.004Z",
+          "mode": 33188
+        },
+        "137a105e07b4900af7c0ae190b8c634e": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:f53974a665493220e71c611bc0b96c3e4feab61b",
+          "backupFile": "f53974a665493220-1780886298700",
+          "size": 7139,
+          "mtime": "2026-06-08T01:56:52.003Z",
+          "mode": 33188
+        },
+        "db5ed37a22352e558123f1e2b924299d": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:f68151793e1274c78c6a56c1af31ae5142667456",
+          "backupFile": "f68151793e1274c7-1780886298696",
+          "size": 1109,
+          "mtime": "2026-06-08T01:56:52.005Z",
+          "mode": 33188
+        },
+        "1468561ae898eb88518d152adbe60fea": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e56cb3c76055322be52b43311e6d0632f96af401",
+          "backupFile": "e56cb3c76055322b-1780886298704",
+          "size": 14084,
+          "mtime": "2026-06-08T01:56:52.000Z",
+          "mode": 33188
+        },
+        "0fadfa6766dbd5e267195d0821783b30": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:8639ac8a51e9d13a9dc7957adc50409d197b0b41",
+          "backupFile": "8639ac8a51e9d13a-1780886298703",
+          "size": 28672,
+          "mtime": "2026-06-08T01:56:52.008Z",
+          "mode": 33188
+        },
+        "93f18acd6e8dd2569ddaeba7ef69b01c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:bcd30ebde9fc5dffe6a9500679974b93638aba76",
+          "backupFile": "bcd30ebde9fc5dff-1780886298704",
+          "size": 317,
+          "mtime": "2026-06-08T01:56:51.999Z",
+          "mode": 33152
+        },
+        "8b0b3de126744ae43a95490a758a1968": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:38:04.539Z",
+          "mode": 33188
+        },
+        "c214e636b9923905888633e14f7b724c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e595dc885990fdd1d874738e1c4b7d95d08de4a4",
+          "backupFile": "e595dc885990fdd1-1780886298704",
+          "size": 6,
+          "mtime": "2026-06-08T02:38:05.157Z",
+          "mode": 33188
+        },
+        "8c01107bfecacd8191fc3353157a9e82": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:2e1d95719007ef9431d8afe57994ef5b9871e593",
+          "backupFile": "2e1d95719007ef94-1780886298705",
+          "size": 446,
+          "mtime": "2026-06-08T02:38:18.598Z",
+          "mode": 33152
+        },
+        "43b7f70c0597a2737e7a92ba99bf60d7": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T02:30:33.731Z",
+          "mode": 33188
+        },
+        "b2900c27ba7585964f0d51243e511f11": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:08be05847ae7f779ed716c46b201d1cfc6903113",
+          "backupFile": "08be05847ae7f779-1780886298705",
+          "size": 488,
+          "mtime": "2026-06-08T02:32:23.335Z",
+          "mode": 33152
+        },
+        "0014f7a11fa867072b1d7fd11eb0190c": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e923875ed3e1767f8b939b86c643d02bd5d5f40a",
+          "backupFile": "e923875ed3e1767f-1780886298702",
+          "size": 172,
+          "mtime": "2026-06-08T01:56:51.997Z",
+          "mode": 33188
+        },
+        "b03abb14fad7edb33e1dc0cfa8f328b2": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:cb891c7d95f6b47dc877c7d4b4615d96abb52932",
+          "backupFile": "cb891c7d95f6b47d-1780886298705",
+          "size": 228,
+          "mtime": "2026-06-08T01:56:51.996Z",
+          "mode": 33152
+        },
+        "565859931f390e8aa112a33b13beed49": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:55f9690bfadeaf56a414bdb9efaaedf43ee1f034",
+          "backupFile": "55f9690bfadeaf56-1780886298705",
+          "size": 131072,
+          "mtime": "2026-06-08T02:37:44.194Z",
+          "mode": 33188
+        },
+        "b1405290d318f513f54b141f0daf9fa9": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:e566b6598d8345643127a2145bd3656349656930",
+          "backupFile": "e566b6598d834564-1780886298705",
+          "size": 32768,
+          "mtime": "2026-06-08T02:38:04.538Z",
+          "mode": 33188
+        },
+        "ee63af156a10a492faac5813a1059439": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:bc73a6e91ec70d2ace5e7306b98a91950775876e",
+          "backupFile": "bc73a6e91ec70d2a-1780886298705",
+          "size": 65952,
+          "mtime": "2026-06-08T02:38:18.605Z",
+          "mode": 33188
+        },
+        "7e46d0e957d3e83644d6c08c016f9aee": {
+          "gitStatus": "??",
+          "contentHash": "git-sha1:fc1ce06d3cd7dff261992ea5c8e3e07e3e2b245d",
+          "backupFile": "fc1ce06d3cd7dff2-1780886298705",
+          "size": 365,
+          "mtime": "2026-06-08T02:04:45.978Z",
+          "mode": 33152
+        }
+      },
+      "workspaceLinesAdded": 6259,
+      "workspaceLinesRemoved": 30
+    }
+  ],
+  "filePathMap": {
+    "ba68b9db56cde66737c9a2d79a0b90b2": "/Users/thatpong/.dotfiles/.config/gh/hosts.yml",
+    "5c706c82a9f67ed8400280126cf0c017": "/Users/thatpong/.dotfiles/.config/nvim/init.lua",
+    "5dc5e651373b57590b20921e31e60e86": "/Users/thatpong/.dotfiles/.config/nvim/lazy-lock.json",
+    "d617fe2d8642d4fcffbe02f7c65cfe0c": "/Users/thatpong/.dotfiles/.config/nvim/lua/config/keymaps.lua",
+    "9e96fd494d51f903653adc430e1584a3": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/lsp.lua",
+    "a691cce800b22bfc54ae49f90e7a2fe7": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/mason.lua",
+    "88e2fcc08c06b3228a95a3325247b193": "/Users/thatpong/.dotfiles/.zshrc",
+    "b6cbf6aac7f9dfb27cff59a3e0bcdfe3": "/Users/thatpong/.dotfiles/.config/nvim/lua/config/nvim-dap.lua",
+    "e9d1fd6f37e0994d531988ca17d346b3": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/dap.lua",
+    "dfe2a25f0803caa6961db18ef36f3442": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/disable-md-format.lua",
+    "a4d799dcd5ae7414feb7c16986d155b9": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/disable-render-markdown.lua",
+    "392827a7216e8cf7eaf09bcc36365f97": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/markdown-preview.lua",
+    "42ca0b3b88932dc7eb042b7cbcd5e1ff": "/Users/thatpong/.dotfiles/.config/nvim/lua/plugins/tiny-diagnos.lua",
+    "b29a21fdd1e325a39e1d5fd90ce3b886": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman-commit.md",
+    "32ef6778a706bb5d51c7cc4f7ffd41df": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman-review.md",
+    "9b52e437677bd31f445d6645d6536b44": "/Users/thatpong/.dotfiles/.config/opencode/commands/caveman.md",
+    "6c84593c1e1b83705d39f352f852a946": "/Users/thatpong/.dotfiles/.config/opencode/plugins/caveman/caveman-config.cjs",
+    "d310e4cfc0203a8877a23a4b64982fb9": "/Users/thatpong/.dotfiles/.config/opencode/plugins/caveman/plugin.js",
+    "a4c99a593b189ff2905c12b9b66d43d4": "/Users/thatpong/.dotfiles/.config/opencode/plugins/crg-plugin.ts",
+    "7f130d9827c58a804251d11ff0f1ac1b": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/.graphify_version",
+    "ba0b6b42f0c5560d41c76bbb114d5d3a": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/SKILL.md",
+    "e89db008ca9178bed1295502bb83120e": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/add-watch.md",
+    "301a75cd563dcbfbfafb7b8cc9ee029a": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/exports.md",
+    "7ecb997a0b270eddb2c144e5e9449eec": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/extraction-spec.md",
+    "4a3dfb4decc587b728e32c9fa19a27a9": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/github-and-merge.md",
+    "fb53fc6bb381c55c327387dda729c373": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/hooks.md",
+    "8580a5c9d4a48614319ca5dbce457f0c": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/query.md",
+    "f03644f77445e88ba708584985956c94": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/transcribe.md",
+    "af5d786d169d96d6d9f8a8864cbec5b3": "/Users/thatpong/.dotfiles/.config/opencode/skills/graphify/references/update.md",
+    "4ed0fdfbf29482d36c7fc6128f565cc0": "/Users/thatpong/.dotfiles/.copilot/command-history-state.json",
+    "36b265ea8ea9262a15cd2dd6618dc906": "/Users/thatpong/.dotfiles/.copilot/config.json",
+    "9fbf0b7174275090f3400a52c07e9a94": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780469978479-52780.log",
+    "81a2feefd3ea83741d15f3883519a534": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780883337893-35065.log",
+    "52af77d71a7181adc2d8e99e7039ea5e": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780883908844-37944.log",
+    "eb70942acb7d4292e1d5c0ffedc1f7a8": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780884088952-39531.log",
+    "d6bf52ccd39e44acd4652e54cbc9cc75": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780884131889-40640.log",
+    "e88c059c97d781bdfffb285bf01b44b1": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780884281728-42111.log",
+    "5e81819f7c197250d7e41627934d2fd0": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780884379115-42882.log",
+    "ae9f86864a4f1b0e63667f42185facd3": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780884455646-43486.log",
+    "b5745d4d19ed818a55dd36b11656f2a7": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780885833706-47627.log",
+    "97985063901ba46de97b7bc80e057244": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780885969808-48479.log",
+    "fa612b71a0593382d4766bb22d74d465": "/Users/thatpong/.dotfiles/.copilot/logs/process-1780886284526-50308.log",
+    "8a3c3dc0986164fbddffdbd1f2077c0e": "/Users/thatpong/.dotfiles/.copilot/mcp-config.json",
+    "86e9e2b3fe0e4b3d56e843090ea47e9d": "/Users/thatpong/.dotfiles/.copilot/session-state/25873420-81eb-4d79-b11a-3db4b8bbdeba/checkpoints/index.md",
+    "d41bd1a403bad53712a34bd968bd693c": "/Users/thatpong/.dotfiles/.copilot/session-state/25873420-81eb-4d79-b11a-3db4b8bbdeba/workspace.yaml",
+    "3714dc680bc5feb50b27690afc1f5801": "/Users/thatpong/.dotfiles/.copilot/session-state/30c485c3-2efa-43d0-9b89-ba3725499f77/checkpoints/index.md",
+    "fd6e2c267f61a3503e08067475da03a4": "/Users/thatpong/.dotfiles/.copilot/session-state/30c485c3-2efa-43d0-9b89-ba3725499f77/workspace.yaml",
+    "790ad82e6bea0936192ed94d28092096": "/Users/thatpong/.dotfiles/.copilot/session-state/3cc3555e-5462-44f9-95de-c67b1cb220b9/checkpoints/index.md",
+    "8f45aedfa204fb13bb26485789c283a2": "/Users/thatpong/.dotfiles/.copilot/session-state/3cc3555e-5462-44f9-95de-c67b1cb220b9/events.jsonl",
+    "c28ec7ceb8b2c6b430702a56b78ca299": "/Users/thatpong/.dotfiles/.copilot/session-state/3cc3555e-5462-44f9-95de-c67b1cb220b9/session.db",
+    "12861506d3d88c2dde3985263fed6bb3": "/Users/thatpong/.dotfiles/.copilot/session-state/3cc3555e-5462-44f9-95de-c67b1cb220b9/workspace.yaml",
+    "1b82dc4583d8e7bdc049417c908ea85c": "/Users/thatpong/.dotfiles/.copilot/session-state/4341662d-025b-48ef-8f61-0e9f334a12d3/checkpoints/index.md",
+    "10c46f2329ee2a885aa7ac7479b86fce": "/Users/thatpong/.dotfiles/.copilot/session-state/4341662d-025b-48ef-8f61-0e9f334a12d3/workspace.yaml",
+    "419ea583da575a7cec8fd4af7e5f51ea": "/Users/thatpong/.dotfiles/.copilot/session-state/48ba4db8-2870-4d3c-b708-a33e21b210f2/checkpoints/index.md",
+    "191555a505d3c9d002bc9017dddf457e": "/Users/thatpong/.dotfiles/.copilot/session-state/48ba4db8-2870-4d3c-b708-a33e21b210f2/workspace.yaml",
+    "4d8582deffcfbd9e34bcee3731fc8378": "/Users/thatpong/.dotfiles/.copilot/session-state/90674e65-0f85-4d95-8686-d45c203accba/checkpoints/index.md",
+    "1ab285081a6fa7a53210e5d41754e56c": "/Users/thatpong/.dotfiles/.copilot/session-state/90674e65-0f85-4d95-8686-d45c203accba/workspace.yaml",
+    "b19e9e1d2410aee2445e08388ea93767": "/Users/thatpong/.dotfiles/.copilot/session-state/9904797a-53dd-42b3-8f25-85ac0e3ec882/checkpoints/index.md",
+    "f76a55fa961c8979f454631bd93eeea5": "/Users/thatpong/.dotfiles/.copilot/session-state/9904797a-53dd-42b3-8f25-85ac0e3ec882/workspace.yaml",
+    "a6666a1b15dad00eafcbb6bd99fa8097": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/checkpoints/index.md",
+    "d3b273efc1a95df0e93f88bba7cc7fde": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/events.jsonl",
+    "980f00829b96894855bcf0cf4e7cc5d0": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/0bfdc5775b3c3525-1780883503983",
+    "047704b8eaf8c5eaf995975e5acb4ef7": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/0fca3ec738e4dd71-1780883503984",
+    "f5123984ecda231123eb482a21906ba4": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/10f98c7cc9e1e57a-1780883503983",
+    "ece4ef05bfe2ebf977c530822db3b692": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/116971d5aa0b32fa-1780883503983",
+    "2abc70fe1525832ff911b00b2d1be7fb": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/25b826f8efba2bc0-1780883503985",
+    "8f5dc3939362c1cae6d46014e1c32b04": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/2bfb87336b61366a-1780883503985",
+    "24489c6d51d1f331bae24343d777f10b": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/31172621921322c7-1780883503983",
+    "d1cd79f4058f04f2a00d76cacfbecbd6": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/3178239657926266-1780883503982",
+    "55150d4cacac12ff9a9b615f0e85c807": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/3750ff23bf275beb-1780883503984",
+    "b128bdaa54b5d5bda0dc3632a654feef": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/438b8b16be18480a-1780883503985",
+    "4055c7d09239d4b84ff5221477e39778": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/5832b97410165817-1780883503983",
+    "6b08e89543b1bf982e25153620ae1838": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/6b8b70061b3ddca6-1780883503983",
+    "5068ffdcf3387e1f2211682261f2ebef": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/6c4f208649058b74-1780883503984",
+    "0d68fb82b88d171bac1e926e44b7109c": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/785bcd0e2445721a-1780883503982",
+    "39c28aa228fb7ea63bf9abd1b040c82d": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/78b6870304dc4dae-1780883503984",
+    "8143ce3e3e05414e02c6e89406858739": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/7a21a92eef84bc2e-1780883503981",
+    "95136cd38a93832655ec88bfdc986f88": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/7c5025dbb766e580-1780883503983",
+    "7f6da3a42026a5ae06cafbd55dce20d8": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/7f3a870e061709a1-1780883503984",
+    "f58460c3775f36fc151d652257b99f50": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/8036318e00e23fce-1780883503983",
+    "351f3fcd441649dc26e8f0bf388b8ce7": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/a3ec0cf0ff5abf1b-1780883503984",
+    "b8fda996e2e27e286539d47a437f81c6": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/a41ea06e17c16764-1780883503985",
+    "2ef85df9218772385882ddfe258e5119": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/af0bbc1920ce8f6e-1780883503982",
+    "9e9c7468af9d93038c50090bf1bd7c70": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/c77dc94efb56275e-1780883503983",
+    "1f78ceb6745a8db5af6784bd61adcdc8": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/d573f95869468e41-1780883503984",
+    "361f581474a115fcb76ebd4e8b2b11ed": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/d9cc6982c653553a-1780883503985",
+    "369def92869dd3d440c77b0ea1eb83a0": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/e32d8d5bc468409b-1780883503982",
+    "6b318bd812470c7b297490be99815fad": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/effad4ff4c1625c9-1780883503982",
+    "137a105e07b4900af7c0ae190b8c634e": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/f53974a665493220-1780883503985",
+    "db5ed37a22352e558123f1e2b924299d": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/backups/f68151793e1274c7-1780883503982",
+    "1468561ae898eb88518d152adbe60fea": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/rewind-snapshots/index.json",
+    "0fadfa6766dbd5e267195d0821783b30": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/session.db",
+    "93f18acd6e8dd2569ddaeba7ef69b01c": "/Users/thatpong/.dotfiles/.copilot/session-state/9a493a94-a307-489e-8bc7-d16f4afcd992/workspace.yaml",
+    "8b0b3de126744ae43a95490a758a1968": "/Users/thatpong/.dotfiles/.copilot/session-state/b87feda8-379e-4f8c-aa42-b4f7d12f253a/checkpoints/index.md",
+    "c214e636b9923905888633e14f7b724c": "/Users/thatpong/.dotfiles/.copilot/session-state/b87feda8-379e-4f8c-aa42-b4f7d12f253a/inuse.50308.lock",
+    "8c01107bfecacd8191fc3353157a9e82": "/Users/thatpong/.dotfiles/.copilot/session-state/b87feda8-379e-4f8c-aa42-b4f7d12f253a/workspace.yaml",
+    "43b7f70c0597a2737e7a92ba99bf60d7": "/Users/thatpong/.dotfiles/.copilot/session-state/bb0c692f-2f73-4388-8d1a-1cbe8d14211d/checkpoints/index.md",
+    "b2900c27ba7585964f0d51243e511f11": "/Users/thatpong/.dotfiles/.copilot/session-state/bb0c692f-2f73-4388-8d1a-1cbe8d14211d/workspace.yaml",
+    "0014f7a11fa867072b1d7fd11eb0190c": "/Users/thatpong/.dotfiles/.copilot/session-state/ea188557-8fb2-4508-9fb0-32328cfc2057/checkpoints/index.md",
+    "b03abb14fad7edb33e1dc0cfa8f328b2": "/Users/thatpong/.dotfiles/.copilot/session-state/ea188557-8fb2-4508-9fb0-32328cfc2057/workspace.yaml",
+    "565859931f390e8aa112a33b13beed49": "/Users/thatpong/.dotfiles/.copilot/session-store.db",
+    "b1405290d318f513f54b141f0daf9fa9": "/Users/thatpong/.dotfiles/.copilot/session-store.db-shm",
+    "ee63af156a10a492faac5813a1059439": "/Users/thatpong/.dotfiles/.copilot/session-store.db-wal",
+    "7e46d0e957d3e83644d6c08c016f9aee": "/Users/thatpong/.dotfiles/.copilot/settings.json"
+  }
+}

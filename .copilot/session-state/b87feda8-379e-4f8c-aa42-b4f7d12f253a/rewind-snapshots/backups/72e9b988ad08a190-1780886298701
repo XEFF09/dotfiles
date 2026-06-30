@@ -1,0 +1,26 @@
+2026-06-08T02:01:28.954Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T02:01:28.962Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=XEFF09/dotfiles
+2026-06-08T02:01:28.979Z [INFO] Workspace initialized: 30c485c3-2efa-43d0-9b89-ba3725499f77 (checkpoints: 0)
+2026-06-08T02:01:29.552Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-08T02:01:29.552Z [INFO] Node.js version: v24.16.0
+2026-06-08T02:01:29.555Z [INFO] Registering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77
+2026-06-08T02:01:29.558Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T02:01:29.562Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-08T02:01:29.580Z [INFO] ICU native addon loaded
+2026-06-08T02:01:29.593Z [INFO] Login status unknown
+2026-06-08T02:01:29.606Z [INFO] Remote session access enabled
+2026-06-08T02:01:29.612Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T02:01:29.622Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T02:01:29.626Z [INFO] Init suggestion check completed
+2026-06-08T02:01:29.651Z [INFO] Unregistering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77
+2026-06-08T02:01:29.651Z [INFO] Registering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77
+2026-06-08T02:01:29.693Z [INFO] Unregistering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77
+2026-06-08T02:01:29.693Z [INFO] Registering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77
+2026-06-08T02:01:30.164Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles - 200 with id EC59:0BEA:AF8B69:CA08B6:6A262279 in 488ms
+2026-06-08T02:01:30.218Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id EC5A:0B85:D02E2B:F03E29:6A262279 in 517ms
+2026-06-08T02:01:30.380Z [INFO] No update needed, current version is 1.0.60, fetched latest release is v1.0.60
+2026-06-08T02:01:31.319Z [INFO] RemoteSessionExporter: active with session 43046531-c438-4ead-8110-d9eb07c7cf94
+2026-06-08T02:01:31.319Z [INFO] Remote session export active (not steerable): https://github.com/XEFF09/dotfiles/tasks/b5008cc6-304b-4e03-81ec-a3797c30853f
+2026-06-08T02:01:32.159Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T02:01:32.820Z [INFO] Memory enablement check: enabled
+2026-06-08T02:02:09.127Z [INFO] Unregistering foreground session: 30c485c3-2efa-43d0-9b89-ba3725499f77

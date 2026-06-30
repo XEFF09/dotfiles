@@ -1,0 +1,103 @@
+2026-06-08T02:38:04.527Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T02:38:04.531Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=XEFF09/dotfiles
+2026-06-08T02:38:04.542Z [INFO] Workspace initialized: b87feda8-379e-4f8c-aa42-b4f7d12f253a (checkpoints: 0)
+2026-06-08T02:38:05.159Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-08T02:38:05.160Z [INFO] Node.js version: v24.16.0
+2026-06-08T02:38:05.163Z [INFO] Registering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:05.166Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T02:38:05.170Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-08T02:38:05.188Z [INFO] ICU native addon loaded
+2026-06-08T02:38:05.201Z [INFO] Login status unknown
+2026-06-08T02:38:05.212Z [INFO] Remote session access enabled
+2026-06-08T02:38:05.216Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T02:38:05.227Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T02:38:05.234Z [INFO] Init suggestion check completed
+2026-06-08T02:38:05.305Z [INFO] Unregistering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:05.305Z [INFO] Registering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:05.313Z [INFO] Unregistering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:05.314Z [INFO] Registering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:05.786Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id F0A7:0B85:1695CAF:1A21BF2:6A262B0D in 485ms
+2026-06-08T02:38:05.797Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles - 200 with id F0A6:0B85:DB5971:FC4A4E:6A262B0D in 512ms
+2026-06-08T02:38:05.969Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: undefined
+2026-06-08T02:38:05.970Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:38:05.971Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:38:05.971Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:38:06.056Z [INFO] No update needed, current version is 1.0.60, fetched latest release is v1.0.60
+2026-06-08T02:38:06.693Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:38:06] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:38:06.696Z [ERROR] MCP client for code-review-graph connected, took 725ms
+2026-06-08T02:38:06.696Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:38:06.696Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:38:06.697Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.business.githubcopilot.com/mcp/readonly
+2026-06-08T02:38:06.697Z [ERROR] Creating MCP client for github-mcp-server...
+2026-06-08T02:38:06.697Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-06-08T02:38:06.935Z [INFO] RemoteSessionExporter: active with session 6ee3c7b9-e5e8-4dbe-aa52-b8e040e8f48f
+2026-06-08T02:38:06.935Z [INFO] Remote session export active (not steerable): https://github.com/XEFF09/dotfiles/tasks/bbec46ad-caea-45e2-8a65-e4c7780e44a9
+2026-06-08T02:38:07.506Z [ERROR] MCP client for github-mcp-server connected, took 809ms
+2026-06-08T02:38:07.506Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-06-08T02:38:07.507Z [ERROR] GitHub MCP server configured after authentication
+2026-06-08T02:38:07.526Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T02:38:08.352Z [INFO] Unregistering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:08.354Z [INFO] Registering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:38:08.903Z [INFO] Memory enablement check: enabled
+2026-06-08T02:38:18.543Z [INFO]  
+2026-06-08T02:38:18.543Z [INFO] --- Start of group: configured settings: ---
+2026-06-08T02:38:18.543Z [INFO] --- End of group ---
+2026-06-08T02:38:18.569Z [INFO]  
+2026-06-08T02:38:18.569Z [INFO] --- Start of group: configured settings: ---
+2026-06-08T02:38:18.569Z [INFO] --- End of group ---
+2026-06-08T02:38:18.570Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-06-08T02:38:18.570Z [INFO] --- End of group ---
+2026-06-08T02:38:18.570Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:38:18.595Z [INFO]  
+2026-06-08T02:38:18.595Z [INFO] --- Start of group: configured settings: ---
+2026-06-08T02:38:18.596Z [INFO] --- End of group ---
+2026-06-08T02:38:19.786Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-06-08T02:38:19.787Z [INFO] --- End of group ---
+2026-06-08T02:38:19.869Z [INFO] CompactionProcessor: Utilization 13.9% (27808/200000 tokens) below threshold 80%
+2026-06-08T02:38:19.870Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:38:20.629Z [INFO] --- End of group ---
+2026-06-08T02:38:20.633Z [INFO] Session named: "Initialize Project Setup"
+2026-06-08T02:38:26.348Z [INFO] --- End of group ---
+2026-06-08T02:38:51.410Z [INFO] CompactionProcessor: Utilization 14.2% (28462/200000 tokens) below threshold 80%
+2026-06-08T02:38:51.412Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:38:55.716Z [INFO] --- End of group ---
+2026-06-08T02:38:55.766Z [INFO] CompactionProcessor: Utilization 14.6% (29281/200000 tokens) below threshold 80%
+2026-06-08T02:38:55.771Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:38:59.214Z [INFO] --- End of group ---
+2026-06-08T02:38:59.310Z [INFO] CompactionProcessor: Utilization 15.2% (30451/200000 tokens) below threshold 80%
+2026-06-08T02:38:59.310Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:02.956Z [INFO] --- End of group ---
+2026-06-08T02:39:03.004Z [INFO] CompactionProcessor: Utilization 15.4% (30784/200000 tokens) below threshold 80%
+2026-06-08T02:39:03.004Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:06.533Z [INFO] --- End of group ---
+2026-06-08T02:39:06.599Z [INFO] CompactionProcessor: Utilization 15.7% (31452/200000 tokens) below threshold 80%
+2026-06-08T02:39:06.600Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:11.203Z [INFO] --- End of group ---
+2026-06-08T02:39:11.329Z [INFO] CompactionProcessor: Utilization 16.3% (32587/200000 tokens) below threshold 80%
+2026-06-08T02:39:11.329Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:14.917Z [INFO] --- End of group ---
+2026-06-08T02:39:15.035Z [INFO] CompactionProcessor: Utilization 17.1% (34165/200000 tokens) below threshold 80%
+2026-06-08T02:39:15.036Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:18.774Z [INFO] --- End of group ---
+2026-06-08T02:39:18.823Z [INFO] CompactionProcessor: Utilization 17.9% (35879/200000 tokens) below threshold 80%
+2026-06-08T02:39:18.824Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:22.515Z [INFO] --- End of group ---
+2026-06-08T02:39:22.573Z [INFO] CompactionProcessor: Utilization 18.4% (36806/200000 tokens) below threshold 80%
+2026-06-08T02:39:22.573Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:25.875Z [INFO] --- End of group ---
+2026-06-08T02:39:25.923Z [INFO] CompactionProcessor: Utilization 18.8% (37513/200000 tokens) below threshold 80%
+2026-06-08T02:39:25.923Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-06-08T02:39:38.646Z [INFO] --- End of group ---
+2026-06-08T02:40:14.284Z [INFO] Completing 1 orphaned tool calls.
+2026-06-08T02:40:14.860Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id F0C3:380FB8:261E826:2BCD106:6A262B8E in 524ms
+2026-06-08T02:40:26.444Z [INFO] Unregistering foreground session: b87feda8-379e-4f8c-aa42-b4f7d12f253a
+2026-06-08T02:40:26.483Z [ERROR] MCP transport for code-review-graph closed
+2026-06-08T02:40:26.484Z [ERROR] MCP client for code-review-graph closed
+2026-06-08T02:40:27.394Z [ERROR] MCP transport for github-mcp-server closed
+2026-06-08T02:40:27.394Z [ERROR] MCP client for github-mcp-server closed

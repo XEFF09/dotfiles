@@ -1,0 +1,19 @@
+2026-06-03T06:59:38.481Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=undefined
+2026-06-03T06:59:38.482Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-03T06:59:38.632Z [INFO] Workspace initialized: ea188557-8fb2-4508-9fb0-32328cfc2057 (checkpoints: 0)
+2026-06-03T06:59:38.763Z [INFO] Starting Copilot CLI: 1.0.59
+2026-06-03T06:59:38.763Z [INFO] Node.js version: v24.16.0
+2026-06-03T06:59:38.764Z [INFO] Registering foreground session: ea188557-8fb2-4508-9fb0-32328cfc2057
+2026-06-03T06:59:38.766Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [FTe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-03T06:59:38.909Z [INFO] ICU native addon loaded
+2026-06-03T06:59:38.952Z [INFO] Login status unknown
+2026-06-03T06:59:38.966Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-03T06:59:38.975Z [INFO] Init suggestion check completed
+2026-06-03T06:59:38.987Z [INFO] Unregistering foreground session: ea188557-8fb2-4508-9fb0-32328cfc2057
+2026-06-03T06:59:38.987Z [INFO] Registering foreground session: ea188557-8fb2-4508-9fb0-32328cfc2057
+2026-06-03T06:59:39.028Z [INFO] Remote session access disabled
+2026-06-03T06:59:39.035Z [INFO] Logged out
+2026-06-03T06:59:39.100Z [INFO] Remote session access disabled
+2026-06-03T06:59:39.545Z [INFO] Remote session access disabled
+2026-06-03T06:59:40.010Z [INFO] No update needed, current version is 1.0.59, fetched latest release is v1.0.59
+2026-06-03T06:59:44.029Z [INFO] Unregistering foreground session: ea188557-8fb2-4508-9fb0-32328cfc2057

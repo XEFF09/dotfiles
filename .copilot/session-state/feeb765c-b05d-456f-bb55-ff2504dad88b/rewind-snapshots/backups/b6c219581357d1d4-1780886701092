@@ -1,0 +1,26 @@
+2026-06-08T01:58:28.846Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T01:58:28.858Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=XEFF09/dotfiles
+2026-06-08T01:58:28.883Z [INFO] Workspace initialized: 9904797a-53dd-42b3-8f25-85ac0e3ec882 (checkpoints: 0)
+2026-06-08T01:58:30.325Z [INFO] No update needed, current version is 1.0.60, fetched latest release is v1.0.60
+2026-06-08T01:58:30.649Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-08T01:58:30.649Z [INFO] Node.js version: v24.16.0
+2026-06-08T01:58:30.655Z [INFO] Registering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882
+2026-06-08T01:58:30.658Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T01:58:30.664Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-08T01:58:30.980Z [INFO] ICU native addon loaded
+2026-06-08T01:58:31.008Z [INFO] Login status unknown
+2026-06-08T01:58:31.030Z [INFO] Remote session access enabled
+2026-06-08T01:58:31.034Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T01:58:31.040Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T01:58:31.046Z [INFO] Init suggestion check completed
+2026-06-08T01:58:31.089Z [INFO] Unregistering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882
+2026-06-08T01:58:31.089Z [INFO] Registering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882
+2026-06-08T01:58:31.147Z [INFO] Unregistering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882
+2026-06-08T01:58:31.147Z [INFO] Registering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882
+2026-06-08T01:58:31.608Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id EC1D:5F742:297A84D:2F1A396:6A2621C7 in 471ms
+2026-06-08T01:58:32.056Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles - 200 with id EC1C:2825:257EDA6:2B173E7:6A2621C7 in 945ms
+2026-06-08T01:58:32.599Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T01:58:33.282Z [INFO] Memory enablement check: enabled
+2026-06-08T01:58:33.577Z [INFO] RemoteSessionExporter: active with session a5d42ee7-2d1d-4d07-961d-a49879d22d8e
+2026-06-08T01:58:33.577Z [INFO] Remote session export active (not steerable): https://github.com/XEFF09/dotfiles/tasks/eba6f44a-c8ed-4f97-81c6-6ec16709ea43
+2026-06-08T02:01:26.146Z [INFO] Unregistering foreground session: 9904797a-53dd-42b3-8f25-85ac0e3ec882

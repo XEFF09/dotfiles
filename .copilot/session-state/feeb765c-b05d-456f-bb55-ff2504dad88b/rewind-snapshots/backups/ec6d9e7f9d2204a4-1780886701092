@@ -1,0 +1,50 @@
+2026-06-08T02:06:19.116Z [INFO] Shell completions: no writable completion directory found for zsh, skipping
+2026-06-08T02:06:19.124Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=XEFF09/dotfiles
+2026-06-08T02:06:19.142Z [INFO] Workspace initialized: 48ba4db8-2870-4d3c-b708-a33e21b210f2 (checkpoints: 0)
+2026-06-08T02:06:19.781Z [INFO] Starting Copilot CLI: 1.0.60
+2026-06-08T02:06:19.781Z [INFO] Node.js version: v24.16.0
+2026-06-08T02:06:19.784Z [INFO] Registering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:06:19.787Z [WARNING] [Node.js warning] Possible EventEmitter memory leak detected. 11 paletteColor listeners added to [sSe]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+2026-06-08T02:06:19.792Z [INFO] Remote session export enabled: https://api.business.githubcopilot.com/agents
+2026-06-08T02:06:19.812Z [INFO] ICU native addon loaded
+2026-06-08T02:06:19.827Z [INFO] Login status unknown
+2026-06-08T02:06:19.844Z [INFO] Remote session access enabled
+2026-06-08T02:06:19.847Z [ERROR] permissions.resetSessionApprovals failed: Error: Permission service is unavailable for this session.
+2026-06-08T02:06:19.853Z [INFO] Welcome Thatpong_fusol!
+2026-06-08T02:06:19.858Z [INFO] Init suggestion check completed
+2026-06-08T02:06:19.884Z [INFO] Unregistering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:06:19.884Z [INFO] Registering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:06:19.960Z [INFO] Unregistering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:06:19.960Z [INFO] Registering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:06:20.408Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles - 200 with id ECFA:DB1FC:2EBE16F:345FE60:6A26239C in 489ms
+2026-06-08T02:06:20.434Z [INFO] [Octokit] GET /repos/XEFF09/dotfiles/pulls?head=XEFF09%3Amain&state=open&per_page=1 - 200 with id ECFC:CD6F0:28BDE5C:2E603FA:6A26239C in 488ms
+2026-06-08T02:06:20.607Z [INFO] No update needed, current version is 1.0.60, fetched latest release is v1.0.60
+2026-06-08T02:06:20.618Z [ERROR] Starting MCP client for code-review-graph with 
+command: uvx 
+args: code-review-graph serve 
+cwd: undefined
+2026-06-08T02:06:20.618Z [ERROR] Starting MCP client for code-review-graph with command: uvx and args: code-review-graph serve
+2026-06-08T02:06:20.619Z [ERROR] Creating MCP client for code-review-graph...
+2026-06-08T02:06:20.620Z [ERROR] Connecting MCP client for code-review-graph...
+2026-06-08T02:06:21.345Z [ERROR] [mcp server code-review-graph stderr] [06/08/26 09:06:21] INFO     Starting MCP server                transport.py:210
+                             'code-review-graph' with transport                 
+                             'stdio'                                            
+
+2026-06-08T02:06:21.348Z [ERROR] MCP client for code-review-graph connected, took 728ms
+2026-06-08T02:06:21.348Z [ERROR] MCP server code-review-graph provided deferred instructions: Persistent incremental knowledge graph for token-efficient, context-aware code reviews. Parses your ...
+2026-06-08T02:06:21.348Z [ERROR] Started MCP client for code-review-graph
+2026-06-08T02:06:21.349Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.business.githubcopilot.com/mcp/readonly
+2026-06-08T02:06:21.350Z [ERROR] Creating MCP client for github-mcp-server...
+2026-06-08T02:06:21.350Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-06-08T02:06:21.509Z [INFO] RemoteSessionExporter: active with session b97d24dc-ec2c-4133-af16-7358def924dc
+2026-06-08T02:06:21.509Z [INFO] Remote session export active (not steerable): https://github.com/XEFF09/dotfiles/tasks/01484a14-dca2-40c4-979b-a83dcc993df5
+2026-06-08T02:06:22.175Z [ERROR] MCP client for github-mcp-server connected, took 825ms
+2026-06-08T02:06:22.175Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-06-08T02:06:22.176Z [ERROR] GitHub MCP server configured after authentication
+2026-06-08T02:06:22.197Z [INFO] Using default model: claude-sonnet-4.6
+2026-06-08T02:06:23.509Z [INFO] Memory enablement check: enabled
+2026-06-08T02:07:22.573Z [INFO] Unregistering foreground session: 48ba4db8-2870-4d3c-b708-a33e21b210f2
+2026-06-08T02:07:23.553Z [ERROR] MCP transport for code-review-graph closed
+2026-06-08T02:07:23.554Z [ERROR] MCP client for code-review-graph closed
+2026-06-08T02:07:23.933Z [ERROR] MCP transport for github-mcp-server closed
+2026-06-08T02:07:23.933Z [ERROR] MCP client for github-mcp-server closed

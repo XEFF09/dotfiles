@@ -1,12 +1,15 @@
--- ~/.config/nvim/lua/plugins/lsp.lua
 return {
-
   {
     "neovim/nvim-lspconfig",
     opts = {
       servers = {
-        -- Add the emmet_language_server configuration
         omnisharp = {
+          enabled = false,
+        },
+        csharp_ls = {
+          enabled = false,
+        },
+        roslyn_ls = {
           enabled = false,
         },
 
@@ -22,6 +25,8 @@ return {
             "scss",
             "pug",
             "typescriptreact",
+            "vue",
+            "terraform",
           },
           init_options = {
             includeLanguages = {},
@@ -44,8 +49,5 @@ return {
     ---@module 'roslyn.config'
     ---@type RoslynNvimConfig
     ft = { "cs", "razor" },
-    opts = {
-      -- your configuration comes here; leave empty for default settings
-    },
   },
 }
